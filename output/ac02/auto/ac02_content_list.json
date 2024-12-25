@@ -1,0 +1,176 @@
+[
+    {
+        "type": "text",
+        "text": "冷水机组状态参数查询操作流程标准(SOP)",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/1164a06652c9d9332136d558eec67efde53a299bf1f11d88696ab38ad54249bc.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>第01部分</td><td>流程名称</td><td>流程编号</td><td>版本号</td></tr><tr><td>SOP标题</td><td>冷水机组状态参数查看(SOP)</td><td>SD-YJD-LSJZ-04</td><td>V1.0</td></tr><tr><td>第02部分 现场信息</td><td>基地名称 云计算基地</td><td>适用范围 A2</td><td>专业负责人 叶笑鸣</td></tr><tr><td rowspan=\"5\">第03部分 设备信息</td><td>设备厂家</td><td>设备名称</td><td>设备型号</td></tr><tr><td>约克</td><td>约克离心冷水机组</td><td>YKK8K3H95ERG/RK</td></tr><tr><td>负责人电话</td><td>售后联系电话</td><td>22BVR 设备厂家技术支</td></tr><tr><td>18100365780</td><td></td><td>持电话</td></tr><tr><td></td><td>15318761605 操作目的</td><td>400-1820-6607</td></tr><tr><td>第04部分</td><td colspan=\"3\"></td></tr><tr><td colspan=\"4\">为保证冷水机组运行状态正常，监控其运行状态，特制定此操作规程。</td></tr><tr><td colspan=\"4\">第05部分 安全要求 1. 现场一人操作;</td></tr><tr><td colspan=\"4\">2．做好个人防护</td></tr><tr><td colspan=\"4\">第06部分 操作风险 1. 误操作，导致冷机运行异常</td></tr><tr><td colspan=\"4\"></td></tr><tr><td>第07部分</td><td colspan=\"3\">检查及准备工作、仪器仪表及耗材</td></tr><tr><td>无</td><td colspan=\"3\"></td></tr><tr><td colspan=\"4\">第8部分 操作执行后所做的检查工作 1.检查确认冷水机组正常运行 2.检查确认冷水机组运行参数正常</td></tr></table></body></html>\n\n",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/291690d228ee77950e6e766855c609c00260f298fb367d8d0287a365013885df.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>第9部分</td><td colspan=\"3\">操作批准</td></tr><tr><td rowspan=\"2\">起草</td><td>起草人姓名</td><td>起草人职务</td><td>起草日期</td></tr><tr><td>李昱莹</td><td>维护工程师</td><td>2024年1月30日</td></tr><tr><td rowspan=\"2\">审核</td><td>审核人姓名</td><td>审核人职务</td><td>审核日期</td></tr><tr><td>叶笑鸣</td><td>运维部主管</td><td>2024年3月29</td></tr><tr><td rowspan=\"2\">批准</td><td>批准人姓名</td><td>批准人职务</td><td>批准日期</td></tr><tr><td>曹荣鑫</td><td>运维部主任</td><td>2024年3月29</td></tr><tr><td>第10部分</td><td colspan=\"3\">本标准操作流程</td></tr></table></body></html>\n\n",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一、打开冷机冷凝器主页面",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 点击冷机面板控制键中的“主页”按钮。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6ca71abb836c43348f0578a09a04624015bcfa5861fd5f51d7521c39fc08b25.jpg",
+        "img_caption": [
+            "1.2 点击冷机面板控制键中的“冷凝器”按钮。"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "二、查看冷凝器参数",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d88ae566e75fa633d516cf56d59a6a2219be1d62f7669acf82d753b7d6df3b63.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 查看面板上对应的冷凝器进水温度、冷凝器出水温度、冷凝器饱和温度、冷凝器小温差、冷凝器压力、过冷度参数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "冷凝器进水温度 $\\langle32\\,^{\\circ}\\mathrm{C}$ ；冷凝器出水温度$\\langle37\\,^{\\circ}\\!C$ ；冷凝器饱和温度 $533\\,^{\\circ}\\mathrm{C}$ ；冷凝器小温差 $1{-}4\\,^{\\circ}\\!C$ ；冷凝器压力 $850{-}900\\mathrm{KPaG}$ ；过冷度 $6{-}14\\,^{\\circ}\\mathrm{C}$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "三、打开冷机压缩机主页面",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/11a94148ea14aaf423186fcd5206730570686265e50e3a16592421b2f151f35b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 点击冷机面板控制键中的“主页”按钮。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c32fa73c9255edf7742985d40584cfbfa8f544162f70756c3be8533df1a50fc7.jpg",
+        "img_caption": [],
+        "img_footnote": [
+            "3.2 点击冷机面板控制键中的“压缩机”按钮。"
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/33ff4322d0cfca7af71c87dcffadeeb65136e6213a31204e9bb89911d70ff72e.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "四、查看压缩机参数",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1 查看面板上对应的油槽温度、过热度、PRV 参数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "油槽温度 $45{-}60\\,^{\\circ}\\mathrm{C}$ ；过热度 $6{-}14\\,^{\\circ}\\mathrm{C}$ ；PRV 参数 $0{-}100\\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/577f83759034bdaac5358b8cdf75d6383e51534e831e083404de999d86d6554a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.1 点击冷机面板控制键中的“主页”按钮。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "五、打开冷机蒸发器主页面",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/49f3e4eec309d84e5fb77ca6641eafe470a672ec7a92b5e291f08198fadae844.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.2 点击冷机面板控制键中的“蒸发器”按钮。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "六、查看蒸发器参数",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce421a6204c1084d2ed3a318f08582acce77f9a86cd9b44ee4e3f8aa14110d64.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6.1 查看面板上对应的冷冻出水温度、冷冻回水温度、蒸发器小温差、蒸发器压力参数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "冷冻出水温度 $8{-}14~^{\\circ}\\mathrm{C}$ ；冷冻回水温度$13{-}19^{\\circ}\\mathrm{C}$ ；蒸发器小温差 $1-4\\,^{\\circ}\\!C$ ；蒸发器压力37.9-533.7KpaG。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2101cfc91d12547951081204710bcd7531200770a9ae48ba713ba55919a8a88.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    }
+]

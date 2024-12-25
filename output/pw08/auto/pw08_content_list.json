@@ -1,0 +1,112 @@
+[
+    {
+        "type": "table",
+        "img_path": "images/53d17ee2e3b30fc231b709b252093682b765bec98b703dceadf90383d4f59513.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td rowspan=\"2\">第01部分 SOP标题</td><td>流程名称</td><td>流程编号</td><td>版本号</td></tr><tr><td>维谛模块化UPS旁路切换操作 流程标准（SOP)</td><td>SD-YJD-UPS-06</td><td>V1.0</td></tr><tr><td rowspan=\"2\">第02部分 现场信息</td><td>基地名称</td><td>适用范围</td><td>专业负责人</td></tr><tr><td>云计算基地</td><td>A2机楼</td><td>赵玲玲</td></tr><tr><td rowspan=\"4\">第03部分 设备信息</td><td>设备厂家</td><td>设备名称</td><td>设备型号</td></tr><tr><td>维谛</td><td>不间断供电系统</td><td>Liebert EPM 0400kTK16FN0100 0</td></tr><tr><td>负责人电话</td><td>售后联系电话</td><td>设备厂家技术支 持电话</td></tr><tr><td>刘晓辉</td><td>13210093575</td><td>13210093575</td></tr><tr><td>第04部分</td><td colspan=\"3\">执行本标准操作流程的原因</td></tr><tr><td colspan=\"4\">用于UPS正常运行模式切换至旁路模式，特制定此规程。</td></tr><tr><td>第05部分</td><td colspan=\"3\">本标准操作流程的安全要求</td></tr><tr><td colspan=\"4\">1.现场操作应2人，一人操作，另一人监护; 2.准备好绝缘手套、绝缘靴及安全帽等；</td></tr><tr><td colspan=\"4\">第06部分 本标准操作流程的各种风险</td></tr><tr><td colspan=\"4\">1.误操作，导致设备掉电； 2.人身触电风险；</td></tr><tr><td colspan=\"4\">第07部分 本标准操作流程所需各项检查及准备工作、仪器仪表及耗材</td></tr></table></body></html>\n\n",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.提前准备操作过程中所使用的工具：低压绝缘手套、安全帽等。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.安装、操作和维护过程中必须使用专用的防护用具，如佩戴低压绝缘手套，佩戴护目镜、穿安全服、戴安全帽、穿安全鞋等。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "第8 部分 本标准操作流程执行后所做的检查工作",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.检查确认UPS 各指示灯显示正常。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.检查确认UPS 各参数在合理范围内。",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/a824e61b087b8edc21672a3ac96036e6bb75b6dd6de2d14f2b7249a74e20d918.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>第9部分</td><td colspan=\"3\">本标准操作流程的批准</td></tr><tr><td rowspan=\"2\">起草</td><td>起草人姓名</td><td>起草人职务</td><td>起草日期</td></tr><tr><td>赵玲玲</td><td>维护工程师</td><td>2024年1月31日</td></tr><tr><td rowspan=\"2\">审核</td><td>审核人姓名</td><td>审核人职务</td><td>审核日期</td></tr><tr><td>叶笑鸣</td><td>维护工程师</td><td>2024年3月20日</td></tr><tr><td rowspan=\"2\">批准</td><td>批准人姓名</td><td>批准人职务</td><td>批准日期</td></tr><tr><td>赵明</td><td>运维部主任</td><td>2024年3月20日</td></tr></table></body></html>\n\n",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一、正常模式到旁路模式的切换；",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 点击、唤醒屏幕；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 点击“操作”按钮，弹出操作栏；",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6ed5d7cfd322aeef2753173516878c9e5fda7ef77402e964dbbc3b200f583e40.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 点击图中所示的“逆变关机”的“关机”按钮，可将UPS 切换至旁路模式。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a64dfc2f4615b268c615aa738f7594266e2ad21c523a6f4334ad9f619face0e9.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "二、旁路模式到正常模式的切换。",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 点击、唤醒屏幕；  \n1.2 点击“操作”按钮，弹出操作栏；",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d008be238458204c8f555822786011a91ea837931aa24fd0b63106cfbfca9af5.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/757d5fbb7876a9a3368e3deef0eaa888b6182c5814cee59cea58e5e42d2abe2a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td rowspan=\"3\"></td><td>2.1旁路模式下，点击图中所示的“逆 变开机”的“开机”按钮，完成逆变 开机后，UPS切换到正常模式。 状态 操作 逆变供电 注</td></tr><tr><td>机器操作 消音 系统>UPS1 逆变开机 开机 逆变关机 关机 故障清除 清除</td></tr><tr><td>节能模式状态 禁止 ECO切旁路剩余时间 00:16:40 节能模式设置 设置</td></tr></table></body></html>\n\n",
+        "page_idx": 2
+    }
+]

@@ -1,0 +1,2314 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        109,
+                        75,
+                        310,
+                        90
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                112,
+                                78,
+                                307,
+                                90
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        112,
+                                        78,
+                                        307,
+                                        90
+                                    ],
+                                    "score": 1.0,
+                                    "content": "冷水机组状态查看操作流程标准(SOP)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        87,
+                        108,
+                        513,
+                        758
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                87,
+                                108,
+                                513,
+                                758
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        108,
+                                        513,
+                                        758
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                87,
+                                                108,
+                                                513,
+                                                758
+                                            ],
+                                            "score": 0.9999338388442993,
+                                            "html": "<html><body><table><tr><td rowspan=\"2\">第01部分 SOP标题</td><td>流程名称</td><td>流程编号</td><td>版本号</td></tr><tr><td>冷水机组状态查看（SOP)</td><td>SD-YJD-LSJZ-01</td><td>V1.0</td></tr><tr><td rowspan=\"2\">第02部分 现场信息</td><td>基地名称</td><td>适用范围</td><td>专业负责人</td></tr><tr><td>云计算基地</td><td>A2</td><td>叶笑鸣</td></tr><tr><td rowspan=\"4\">第03部分 设备信息</td><td>设备厂家</td><td>设备名称</td><td>设备型号 YKK8K3H95ERG/RK</td></tr><tr><td>约克</td><td>约克离心冷水机组</td><td>22BVR</td></tr><tr><td>负责人电话</td><td>售后联系电话</td><td>设备厂家技术支 持电话</td></tr><tr><td>18100365780</td><td>15318761605</td><td>400-1820-6607</td></tr><tr><td>第04部分</td><td colspan=\"3\">操作目的</td></tr><tr><td colspan=\"4\">为确定冷水机组处于运行/非运行状态，监控其运行状态，特制定此操作规程。 第05部分 安全要求</td></tr><tr><td colspan=\"4\">1. 现场一人操作; 2. 做好个人防护</td></tr><tr><td colspan=\"4\">第06部分 操作风险</td></tr><tr><td colspan=\"4\">误操作，导致冷机运行异常</td></tr><tr><td colspan=\"4\">第07部分 检查及准备工作、仪器仪表及耗材</td></tr><tr><td colspan=\"4\">无</td></tr><tr><td colspan=\"4\">第8部分 操作执行后所做的检查工作</td></tr><tr><td colspan=\"4\">1.检查确认冷水机组正常运行</td></tr><tr><td colspan=\"4\">第9部分 操作批准</td></tr><tr><td colspan=\"4\">起草</td></tr><tr><td rowspan=\"2\"></td><td colspan=\"4\">起草人姓名 起草人职务 维护工程师</td></tr><tr><td colspan=\"4\">李昱莹</td></tr><tr><td rowspan=\"3\">审核 批准</td><td colspan=\"4\">审核人姓名</td></tr><tr><td colspan=\"2\">审核人职务 运维部主管</td><td>起草日期 2024年1月30日 审核日期 批准日期</td></tr><tr><td colspan=\"4\">叶笑鸣 批准人姓名 批准人职务</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "224dfd8f82d71c2a956c695998d55e27782a2bb72a6523d50215d3d33a2c43a6.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        108,
+                                        513,
+                                        324.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        87,
+                                        324.66666666666663,
+                                        513,
+                                        541.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        87,
+                                        541.3333333333333,
+                                        513,
+                                        757.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                595.2999877929688,
+                841.9000244140625
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        87,
+                        108,
+                        513,
+                        758
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                87,
+                                108,
+                                513,
+                                758
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        108,
+                                        513,
+                                        758
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                87,
+                                                108,
+                                                513,
+                                                758
+                                            ],
+                                            "score": 0.9999338388442993,
+                                            "html": "<html><body><table><tr><td rowspan=\"2\">第01部分 SOP标题</td><td>流程名称</td><td>流程编号</td><td>版本号</td></tr><tr><td>冷水机组状态查看（SOP)</td><td>SD-YJD-LSJZ-01</td><td>V1.0</td></tr><tr><td rowspan=\"2\">第02部分 现场信息</td><td>基地名称</td><td>适用范围</td><td>专业负责人</td></tr><tr><td>云计算基地</td><td>A2</td><td>叶笑鸣</td></tr><tr><td rowspan=\"4\">第03部分 设备信息</td><td>设备厂家</td><td>设备名称</td><td>设备型号 YKK8K3H95ERG/RK</td></tr><tr><td>约克</td><td>约克离心冷水机组</td><td>22BVR</td></tr><tr><td>负责人电话</td><td>售后联系电话</td><td>设备厂家技术支 持电话</td></tr><tr><td>18100365780</td><td>15318761605</td><td>400-1820-6607</td></tr><tr><td>第04部分</td><td colspan=\"3\">操作目的</td></tr><tr><td colspan=\"4\">为确定冷水机组处于运行/非运行状态，监控其运行状态，特制定此操作规程。 第05部分 安全要求</td></tr><tr><td colspan=\"4\">1. 现场一人操作; 2. 做好个人防护</td></tr><tr><td colspan=\"4\">第06部分 操作风险</td></tr><tr><td colspan=\"4\">误操作，导致冷机运行异常</td></tr><tr><td colspan=\"4\">第07部分 检查及准备工作、仪器仪表及耗材</td></tr><tr><td colspan=\"4\">无</td></tr><tr><td colspan=\"4\">第8部分 操作执行后所做的检查工作</td></tr><tr><td colspan=\"4\">1.检查确认冷水机组正常运行</td></tr><tr><td colspan=\"4\">第9部分 操作批准</td></tr><tr><td colspan=\"4\">起草</td></tr><tr><td rowspan=\"2\"></td><td colspan=\"4\">起草人姓名 起草人职务 维护工程师</td></tr><tr><td colspan=\"4\">李昱莹</td></tr><tr><td rowspan=\"3\">审核 批准</td><td colspan=\"4\">审核人姓名</td></tr><tr><td colspan=\"2\">审核人职务 运维部主管</td><td>起草日期 2024年1月30日 审核日期 批准日期</td></tr><tr><td colspan=\"4\">叶笑鸣 批准人姓名 批准人职务</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "224dfd8f82d71c2a956c695998d55e27782a2bb72a6523d50215d3d33a2c43a6.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        108,
+                                        513,
+                                        324.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        87,
+                                        324.66666666666663,
+                                        513,
+                                        541.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        87,
+                                        541.3333333333333,
+                                        513,
+                                        757.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        272,
+                        783,
+                        322,
+                        799
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                271,
+                                782,
+                                323,
+                                800
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        271,
+                                        782,
+                                        323,
+                                        800
+                                    ],
+                                    "score": 1.0,
+                                    "content": "第1 页",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        109,
+                        75,
+                        310,
+                        90
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                112,
+                                78,
+                                307,
+                                90
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        112,
+                                        78,
+                                        307,
+                                        90
+                                    ],
+                                    "score": 1.0,
+                                    "content": "冷水机组状态查看操作流程标准(SOP)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ],
+                    "bbox_fs": [
+                        112,
+                        78,
+                        307,
+                        90
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        87,
+                        108,
+                        513,
+                        758
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                87,
+                                108,
+                                513,
+                                758
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        108,
+                                        513,
+                                        758
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                87,
+                                                108,
+                                                513,
+                                                758
+                                            ],
+                                            "score": 0.9999338388442993,
+                                            "html": "<html><body><table><tr><td rowspan=\"2\">第01部分 SOP标题</td><td>流程名称</td><td>流程编号</td><td>版本号</td></tr><tr><td>冷水机组状态查看（SOP)</td><td>SD-YJD-LSJZ-01</td><td>V1.0</td></tr><tr><td rowspan=\"2\">第02部分 现场信息</td><td>基地名称</td><td>适用范围</td><td>专业负责人</td></tr><tr><td>云计算基地</td><td>A2</td><td>叶笑鸣</td></tr><tr><td rowspan=\"4\">第03部分 设备信息</td><td>设备厂家</td><td>设备名称</td><td>设备型号 YKK8K3H95ERG/RK</td></tr><tr><td>约克</td><td>约克离心冷水机组</td><td>22BVR</td></tr><tr><td>负责人电话</td><td>售后联系电话</td><td>设备厂家技术支 持电话</td></tr><tr><td>18100365780</td><td>15318761605</td><td>400-1820-6607</td></tr><tr><td>第04部分</td><td colspan=\"3\">操作目的</td></tr><tr><td colspan=\"4\">为确定冷水机组处于运行/非运行状态，监控其运行状态，特制定此操作规程。 第05部分 安全要求</td></tr><tr><td colspan=\"4\">1. 现场一人操作; 2. 做好个人防护</td></tr><tr><td colspan=\"4\">第06部分 操作风险</td></tr><tr><td colspan=\"4\">误操作，导致冷机运行异常</td></tr><tr><td colspan=\"4\">第07部分 检查及准备工作、仪器仪表及耗材</td></tr><tr><td colspan=\"4\">无</td></tr><tr><td colspan=\"4\">第8部分 操作执行后所做的检查工作</td></tr><tr><td colspan=\"4\">1.检查确认冷水机组正常运行</td></tr><tr><td colspan=\"4\">第9部分 操作批准</td></tr><tr><td colspan=\"4\">起草</td></tr><tr><td rowspan=\"2\"></td><td colspan=\"4\">起草人姓名 起草人职务 维护工程师</td></tr><tr><td colspan=\"4\">李昱莹</td></tr><tr><td rowspan=\"3\">审核 批准</td><td colspan=\"4\">审核人姓名</td></tr><tr><td colspan=\"2\">审核人职务 运维部主管</td><td>起草日期 2024年1月30日 审核日期 批准日期</td></tr><tr><td colspan=\"4\">叶笑鸣 批准人姓名 批准人职务</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "224dfd8f82d71c2a956c695998d55e27782a2bb72a6523d50215d3d33a2c43a6.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        108,
+                                        513,
+                                        324.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        87,
+                                        324.66666666666663,
+                                        513,
+                                        541.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        87,
+                                        541.3333333333333,
+                                        513,
+                                        757.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        93,
+                        158,
+                        287,
+                        176
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                160,
+                                284,
+                                174
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        160,
+                                        284,
+                                        174
+                                    ],
+                                    "score": 1.0,
+                                    "content": "一、查看冷机运行/非运行状态",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        301,
+                        89,
+                        507,
+                        545
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                301,
+                                89,
+                                507,
+                                545
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        302,
+                                        89,
+                                        507,
+                                        545
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                302,
+                                                89,
+                                                507,
+                                                545
+                                            ],
+                                            "score": 0.24590644240379333,
+                                            "html": "<html><body><table><tr><td>标准操作流程</td></tr><tr><td>1.1冷机面板左上角显示“系统运行” 并伴随“嗡嗡”声，冷机为运行状态; 冷机面板左上角显示“正常关闭”，冷 机为非运行状态。</td></tr><tr><td>系统运行 ATE 15.11.2023 1547 现场 SSTTHDLIATLS ACGESSLEVEL 系统 冷冻出水出水温度控制 工洲希 蒸发器 60.6% 电机%满载电流</td></tr><tr><td>240kW 输入功率 19857 运行时间（h） 冷凝器 电机运行 压缩机 容量控制</td></tr><tr><td></td></tr><tr><td>电机 冷冻水温度 冷凝器水温度 出水 14.0C 出水 23.1℃ 设定点 回水 18.9*C 回水 18.2C</td></tr><tr><td>打印 登入 软停机 记录 正常关闭 15.11.2023 1547 现场 系统</td></tr><tr><td>STSTEHDETAILS ACCESSLEUEL 操作员 蒸发器</td></tr><tr><td>冷凝器 压缩机</td></tr><tr><td>0.02 电机%满载电流</td></tr><tr><td>2kW 输入功率 14721 运行时间（h） 电机际行 容量控制</td></tr><tr><td>电机</td></tr><tr><td>冷冻水温度 冷凝器水温度 出水 18.8C * 18.0'C 设定点 回水 18.6C 回水 18.5C 打印 登出 启动 记录</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "a79f194f5ca53df81b690b295e9c452fd467700484af07850d1578247cbd4ee4.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 18.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        301,
+                                        89,
+                                        507,
+                                        102.0
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        102.0,
+                                        507,
+                                        115.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        115.0,
+                                        507,
+                                        128.0
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        128.0,
+                                        507,
+                                        141.0
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        141.0,
+                                        507,
+                                        154.0
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        154.0,
+                                        507,
+                                        167.0
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        167.0,
+                                        507,
+                                        180.0
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        180.0,
+                                        507,
+                                        193.0
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        193.0,
+                                        507,
+                                        206.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        206.0,
+                                        507,
+                                        219.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        219.0,
+                                        507,
+                                        232.0
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        232.0,
+                                        507,
+                                        245.0
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        245.0,
+                                        507,
+                                        258.0
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        258.0,
+                                        507,
+                                        271.0
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        271.0,
+                                        507,
+                                        284.0
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        284.0,
+                                        507,
+                                        297.0
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        297.0,
+                                        507,
+                                        310.0
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        310.0,
+                                        507,
+                                        323.0
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        323.0,
+                                        507,
+                                        336.0
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        336.0,
+                                        507,
+                                        349.0
+                                    ],
+                                    "spans": [],
+                                    "index": 20
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        349.0,
+                                        507,
+                                        362.0
+                                    ],
+                                    "spans": [],
+                                    "index": 21
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        362.0,
+                                        507,
+                                        375.0
+                                    ],
+                                    "spans": [],
+                                    "index": 22
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        375.0,
+                                        507,
+                                        388.0
+                                    ],
+                                    "spans": [],
+                                    "index": 23
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        388.0,
+                                        507,
+                                        401.0
+                                    ],
+                                    "spans": [],
+                                    "index": 24
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        401.0,
+                                        507,
+                                        414.0
+                                    ],
+                                    "spans": [],
+                                    "index": 25
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        414.0,
+                                        507,
+                                        427.0
+                                    ],
+                                    "spans": [],
+                                    "index": 26
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        427.0,
+                                        507,
+                                        440.0
+                                    ],
+                                    "spans": [],
+                                    "index": 27
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        440.0,
+                                        507,
+                                        453.0
+                                    ],
+                                    "spans": [],
+                                    "index": 28
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        453.0,
+                                        507,
+                                        466.0
+                                    ],
+                                    "spans": [],
+                                    "index": 29
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        466.0,
+                                        507,
+                                        479.0
+                                    ],
+                                    "spans": [],
+                                    "index": 30
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        479.0,
+                                        507,
+                                        492.0
+                                    ],
+                                    "spans": [],
+                                    "index": 31
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        492.0,
+                                        507,
+                                        505.0
+                                    ],
+                                    "spans": [],
+                                    "index": 32
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        505.0,
+                                        507,
+                                        518.0
+                                    ],
+                                    "spans": [],
+                                    "index": 33
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        518.0,
+                                        507,
+                                        531.0
+                                    ],
+                                    "spans": [],
+                                    "index": 34
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        531.0,
+                                        507,
+                                        544.0
+                                    ],
+                                    "spans": [],
+                                    "index": 35
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        544.0,
+                                        507,
+                                        557.0
+                                    ],
+                                    "spans": [],
+                                    "index": 36
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        93,
+                        679,
+                        272,
+                        698
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                682,
+                                270,
+                                698
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        682,
+                                        270,
+                                        698
+                                    ],
+                                    "score": 1.0,
+                                    "content": "二、查看冷机现场/远程状态",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        }
+                    ],
+                    "index": 37
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        304,
+                        615,
+                        505,
+                        702
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                304,
+                                617,
+                                502,
+                                629
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        304,
+                                        617,
+                                        502,
+                                        629
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2.1 查看冷机面板右上角，控制来源显",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                305,
+                                640,
+                                503,
+                                652
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        640,
+                                        503,
+                                        652
+                                    ],
+                                    "score": 1.0,
+                                    "content": "示为“现场”为冷机现场状态；冷机面",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                305,
+                                664,
+                                503,
+                                676
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        664,
+                                        503,
+                                        676
+                                    ],
+                                    "score": 1.0,
+                                    "content": "板控制来源显示为“BAS”为冷机远程",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                303,
+                                686,
+                                336,
+                                701
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        686,
+                                        336,
+                                        701
+                                    ],
+                                    "score": 1.0,
+                                    "content": "状态。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        }
+                    ],
+                    "index": 39.5
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 1,
+            "page_size": [
+                595.2999877929688,
+                841.9000244140625
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        301,
+                        89,
+                        507,
+                        545
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                301,
+                                89,
+                                507,
+                                545
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        302,
+                                        89,
+                                        507,
+                                        545
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                302,
+                                                89,
+                                                507,
+                                                545
+                                            ],
+                                            "score": 0.24590644240379333,
+                                            "html": "<html><body><table><tr><td>标准操作流程</td></tr><tr><td>1.1冷机面板左上角显示“系统运行” 并伴随“嗡嗡”声，冷机为运行状态; 冷机面板左上角显示“正常关闭”，冷 机为非运行状态。</td></tr><tr><td>系统运行 ATE 15.11.2023 1547 现场 SSTTHDLIATLS ACGESSLEVEL 系统 冷冻出水出水温度控制 工洲希 蒸发器 60.6% 电机%满载电流</td></tr><tr><td>240kW 输入功率 19857 运行时间（h） 冷凝器 电机运行 压缩机 容量控制</td></tr><tr><td></td></tr><tr><td>电机 冷冻水温度 冷凝器水温度 出水 14.0C 出水 23.1℃ 设定点 回水 18.9*C 回水 18.2C</td></tr><tr><td>打印 登入 软停机 记录 正常关闭 15.11.2023 1547 现场 系统</td></tr><tr><td>STSTEHDETAILS ACCESSLEUEL 操作员 蒸发器</td></tr><tr><td>冷凝器 压缩机</td></tr><tr><td>0.02 电机%满载电流</td></tr><tr><td>2kW 输入功率 14721 运行时间（h） 电机际行 容量控制</td></tr><tr><td>电机</td></tr><tr><td>冷冻水温度 冷凝器水温度 出水 18.8C * 18.0'C 设定点 回水 18.6C 回水 18.5C 打印 登出 启动 记录</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "a79f194f5ca53df81b690b295e9c452fd467700484af07850d1578247cbd4ee4.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 18.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        301,
+                                        89,
+                                        507,
+                                        102.0
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        102.0,
+                                        507,
+                                        115.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        115.0,
+                                        507,
+                                        128.0
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        128.0,
+                                        507,
+                                        141.0
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        141.0,
+                                        507,
+                                        154.0
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        154.0,
+                                        507,
+                                        167.0
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        167.0,
+                                        507,
+                                        180.0
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        180.0,
+                                        507,
+                                        193.0
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        193.0,
+                                        507,
+                                        206.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        206.0,
+                                        507,
+                                        219.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        219.0,
+                                        507,
+                                        232.0
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        232.0,
+                                        507,
+                                        245.0
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        245.0,
+                                        507,
+                                        258.0
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        258.0,
+                                        507,
+                                        271.0
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        271.0,
+                                        507,
+                                        284.0
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        284.0,
+                                        507,
+                                        297.0
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        297.0,
+                                        507,
+                                        310.0
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        310.0,
+                                        507,
+                                        323.0
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        323.0,
+                                        507,
+                                        336.0
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        336.0,
+                                        507,
+                                        349.0
+                                    ],
+                                    "spans": [],
+                                    "index": 20
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        349.0,
+                                        507,
+                                        362.0
+                                    ],
+                                    "spans": [],
+                                    "index": 21
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        362.0,
+                                        507,
+                                        375.0
+                                    ],
+                                    "spans": [],
+                                    "index": 22
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        375.0,
+                                        507,
+                                        388.0
+                                    ],
+                                    "spans": [],
+                                    "index": 23
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        388.0,
+                                        507,
+                                        401.0
+                                    ],
+                                    "spans": [],
+                                    "index": 24
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        401.0,
+                                        507,
+                                        414.0
+                                    ],
+                                    "spans": [],
+                                    "index": 25
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        414.0,
+                                        507,
+                                        427.0
+                                    ],
+                                    "spans": [],
+                                    "index": 26
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        427.0,
+                                        507,
+                                        440.0
+                                    ],
+                                    "spans": [],
+                                    "index": 27
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        440.0,
+                                        507,
+                                        453.0
+                                    ],
+                                    "spans": [],
+                                    "index": 28
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        453.0,
+                                        507,
+                                        466.0
+                                    ],
+                                    "spans": [],
+                                    "index": 29
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        466.0,
+                                        507,
+                                        479.0
+                                    ],
+                                    "spans": [],
+                                    "index": 30
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        479.0,
+                                        507,
+                                        492.0
+                                    ],
+                                    "spans": [],
+                                    "index": 31
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        492.0,
+                                        507,
+                                        505.0
+                                    ],
+                                    "spans": [],
+                                    "index": 32
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        505.0,
+                                        507,
+                                        518.0
+                                    ],
+                                    "spans": [],
+                                    "index": 33
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        518.0,
+                                        507,
+                                        531.0
+                                    ],
+                                    "spans": [],
+                                    "index": 34
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        531.0,
+                                        507,
+                                        544.0
+                                    ],
+                                    "spans": [],
+                                    "index": 35
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        544.0,
+                                        507,
+                                        557.0
+                                    ],
+                                    "spans": [],
+                                    "index": 36
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18.5
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        272,
+                        783,
+                        322,
+                        799
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                272,
+                                782,
+                                323,
+                                800
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        272,
+                                        782,
+                                        323,
+                                        800
+                                    ],
+                                    "score": 1.0,
+                                    "content": "第2 页",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        93,
+                        158,
+                        287,
+                        176
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                160,
+                                284,
+                                174
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        160,
+                                        284,
+                                        174
+                                    ],
+                                    "score": 1.0,
+                                    "content": "一、查看冷机运行/非运行状态",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        301,
+                        89,
+                        507,
+                        545
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                301,
+                                89,
+                                507,
+                                545
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        302,
+                                        89,
+                                        507,
+                                        545
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                302,
+                                                89,
+                                                507,
+                                                545
+                                            ],
+                                            "score": 0.24590644240379333,
+                                            "html": "<html><body><table><tr><td>标准操作流程</td></tr><tr><td>1.1冷机面板左上角显示“系统运行” 并伴随“嗡嗡”声，冷机为运行状态; 冷机面板左上角显示“正常关闭”，冷 机为非运行状态。</td></tr><tr><td>系统运行 ATE 15.11.2023 1547 现场 SSTTHDLIATLS ACGESSLEVEL 系统 冷冻出水出水温度控制 工洲希 蒸发器 60.6% 电机%满载电流</td></tr><tr><td>240kW 输入功率 19857 运行时间（h） 冷凝器 电机运行 压缩机 容量控制</td></tr><tr><td></td></tr><tr><td>电机 冷冻水温度 冷凝器水温度 出水 14.0C 出水 23.1℃ 设定点 回水 18.9*C 回水 18.2C</td></tr><tr><td>打印 登入 软停机 记录 正常关闭 15.11.2023 1547 现场 系统</td></tr><tr><td>STSTEHDETAILS ACCESSLEUEL 操作员 蒸发器</td></tr><tr><td>冷凝器 压缩机</td></tr><tr><td>0.02 电机%满载电流</td></tr><tr><td>2kW 输入功率 14721 运行时间（h） 电机际行 容量控制</td></tr><tr><td>电机</td></tr><tr><td>冷冻水温度 冷凝器水温度 出水 18.8C * 18.0'C 设定点 回水 18.6C 回水 18.5C 打印 登出 启动 记录</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "a79f194f5ca53df81b690b295e9c452fd467700484af07850d1578247cbd4ee4.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 18.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        301,
+                                        89,
+                                        507,
+                                        102.0
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        102.0,
+                                        507,
+                                        115.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        115.0,
+                                        507,
+                                        128.0
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        128.0,
+                                        507,
+                                        141.0
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        141.0,
+                                        507,
+                                        154.0
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        154.0,
+                                        507,
+                                        167.0
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        167.0,
+                                        507,
+                                        180.0
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        180.0,
+                                        507,
+                                        193.0
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        193.0,
+                                        507,
+                                        206.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        206.0,
+                                        507,
+                                        219.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        219.0,
+                                        507,
+                                        232.0
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        232.0,
+                                        507,
+                                        245.0
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        245.0,
+                                        507,
+                                        258.0
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        258.0,
+                                        507,
+                                        271.0
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        271.0,
+                                        507,
+                                        284.0
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        284.0,
+                                        507,
+                                        297.0
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        297.0,
+                                        507,
+                                        310.0
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        310.0,
+                                        507,
+                                        323.0
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        323.0,
+                                        507,
+                                        336.0
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        336.0,
+                                        507,
+                                        349.0
+                                    ],
+                                    "spans": [],
+                                    "index": 20
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        349.0,
+                                        507,
+                                        362.0
+                                    ],
+                                    "spans": [],
+                                    "index": 21
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        362.0,
+                                        507,
+                                        375.0
+                                    ],
+                                    "spans": [],
+                                    "index": 22
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        375.0,
+                                        507,
+                                        388.0
+                                    ],
+                                    "spans": [],
+                                    "index": 23
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        388.0,
+                                        507,
+                                        401.0
+                                    ],
+                                    "spans": [],
+                                    "index": 24
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        401.0,
+                                        507,
+                                        414.0
+                                    ],
+                                    "spans": [],
+                                    "index": 25
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        414.0,
+                                        507,
+                                        427.0
+                                    ],
+                                    "spans": [],
+                                    "index": 26
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        427.0,
+                                        507,
+                                        440.0
+                                    ],
+                                    "spans": [],
+                                    "index": 27
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        440.0,
+                                        507,
+                                        453.0
+                                    ],
+                                    "spans": [],
+                                    "index": 28
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        453.0,
+                                        507,
+                                        466.0
+                                    ],
+                                    "spans": [],
+                                    "index": 29
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        466.0,
+                                        507,
+                                        479.0
+                                    ],
+                                    "spans": [],
+                                    "index": 30
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        479.0,
+                                        507,
+                                        492.0
+                                    ],
+                                    "spans": [],
+                                    "index": 31
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        492.0,
+                                        507,
+                                        505.0
+                                    ],
+                                    "spans": [],
+                                    "index": 32
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        505.0,
+                                        507,
+                                        518.0
+                                    ],
+                                    "spans": [],
+                                    "index": 33
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        518.0,
+                                        507,
+                                        531.0
+                                    ],
+                                    "spans": [],
+                                    "index": 34
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        531.0,
+                                        507,
+                                        544.0
+                                    ],
+                                    "spans": [],
+                                    "index": 35
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        544.0,
+                                        507,
+                                        557.0
+                                    ],
+                                    "spans": [],
+                                    "index": 36
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        93,
+                        679,
+                        272,
+                        698
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                682,
+                                270,
+                                698
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        682,
+                                        270,
+                                        698
+                                    ],
+                                    "score": 1.0,
+                                    "content": "二、查看冷机现场/远程状态",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        }
+                    ],
+                    "index": 37,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        304,
+                        615,
+                        505,
+                        702
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                304,
+                                617,
+                                502,
+                                629
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        304,
+                                        617,
+                                        502,
+                                        629
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2.1 查看冷机面板右上角，控制来源显",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                305,
+                                640,
+                                503,
+                                652
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        640,
+                                        503,
+                                        652
+                                    ],
+                                    "score": 1.0,
+                                    "content": "示为“现场”为冷机现场状态；冷机面",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                305,
+                                664,
+                                503,
+                                676
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        664,
+                                        503,
+                                        676
+                                    ],
+                                    "score": 1.0,
+                                    "content": "板控制来源显示为“BAS”为冷机远程",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                303,
+                                686,
+                                336,
+                                701
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        686,
+                                        336,
+                                        701
+                                    ],
+                                    "score": 1.0,
+                                    "content": "状态。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        }
+                    ],
+                    "index": 39.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ],
+                    "bbox_fs": [
+                        303,
+                        617,
+                        503,
+                        701
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        87,
+                        69,
+                        512,
+                        301
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                87,
+                                69,
+                                512,
+                                301
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        69,
+                                        512,
+                                        301
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                87,
+                                                69,
+                                                512,
+                                                301
+                                            ],
+                                            "score": 0.9993284940719604,
+                                            "type": "image",
+                                            "image_path": "25f80ef66cd83cd82143d29fa9d0211b33584df81f393ce50b208e614277e9dc.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        69,
+                                        512,
+                                        146.33333333333331
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        87,
+                                        146.33333333333331,
+                                        512,
+                                        223.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        87,
+                                        223.66666666666663,
+                                        512,
+                                        300.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 2,
+            "page_size": [
+                595.2999877929688,
+                841.9000244140625
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        87,
+                        69,
+                        512,
+                        301
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                87,
+                                69,
+                                512,
+                                301
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        69,
+                                        512,
+                                        301
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                87,
+                                                69,
+                                                512,
+                                                301
+                                            ],
+                                            "score": 0.9993284940719604,
+                                            "type": "image",
+                                            "image_path": "25f80ef66cd83cd82143d29fa9d0211b33584df81f393ce50b208e614277e9dc.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        69,
+                                        512,
+                                        146.33333333333331
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        87,
+                                        146.33333333333331,
+                                        512,
+                                        223.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        87,
+                                        223.66666666666663,
+                                        512,
+                                        300.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        272,
+                        783,
+                        322,
+                        799
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                272,
+                                783,
+                                322,
+                                800
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        272,
+                                        783,
+                                        322,
+                                        800
+                                    ],
+                                    "score": 1.0,
+                                    "content": "第3 页",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        87,
+                        69,
+                        512,
+                        301
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                87,
+                                69,
+                                512,
+                                301
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        69,
+                                        512,
+                                        301
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                87,
+                                                69,
+                                                512,
+                                                301
+                                            ],
+                                            "score": 0.9993284940719604,
+                                            "type": "image",
+                                            "image_path": "25f80ef66cd83cd82143d29fa9d0211b33584df81f393ce50b208e614277e9dc.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        69,
+                                        512,
+                                        146.33333333333331
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        87,
+                                        146.33333333333331,
+                                        512,
+                                        223.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        87,
+                                        223.66666666666663,
+                                        512,
+                                        300.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_2",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "txt",
+    "_version_name": "0.10.6"
+}

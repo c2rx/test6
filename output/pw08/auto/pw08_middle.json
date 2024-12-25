@@ -1,0 +1,3402 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        86,
+                        92,
+                        511,
+                        579
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                86,
+                                92,
+                                511,
+                                579
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        92,
+                                        511,
+                                        579
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                86,
+                                                92,
+                                                511,
+                                                579
+                                            ],
+                                            "score": 0.5208272933959961,
+                                            "html": "<html><body><table><tr><td rowspan=\"2\">第01部分 SOP标题</td><td>流程名称</td><td>流程编号</td><td>版本号</td></tr><tr><td>维谛模块化UPS旁路切换操作 流程标准（SOP)</td><td>SD-YJD-UPS-06</td><td>V1.0</td></tr><tr><td rowspan=\"2\">第02部分 现场信息</td><td>基地名称</td><td>适用范围</td><td>专业负责人</td></tr><tr><td>云计算基地</td><td>A2机楼</td><td>赵玲玲</td></tr><tr><td rowspan=\"4\">第03部分 设备信息</td><td>设备厂家</td><td>设备名称</td><td>设备型号</td></tr><tr><td>维谛</td><td>不间断供电系统</td><td>Liebert EPM 0400kTK16FN0100 0</td></tr><tr><td>负责人电话</td><td>售后联系电话</td><td>设备厂家技术支 持电话</td></tr><tr><td>刘晓辉</td><td>13210093575</td><td>13210093575</td></tr><tr><td>第04部分</td><td colspan=\"3\">执行本标准操作流程的原因</td></tr><tr><td colspan=\"4\">用于UPS正常运行模式切换至旁路模式，特制定此规程。</td></tr><tr><td>第05部分</td><td colspan=\"3\">本标准操作流程的安全要求</td></tr><tr><td colspan=\"4\">1.现场操作应2人，一人操作，另一人监护; 2.准备好绝缘手套、绝缘靴及安全帽等；</td></tr><tr><td colspan=\"4\">第06部分 本标准操作流程的各种风险</td></tr><tr><td colspan=\"4\">1.误操作，导致设备掉电； 2.人身触电风险；</td></tr><tr><td colspan=\"4\">第07部分 本标准操作流程所需各项检查及准备工作、仪器仪表及耗材</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "53d17ee2e3b30fc231b709b252093682b765bec98b703dceadf90383d4f59513.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        92,
+                                        511,
+                                        254.33333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        254.33333333333334,
+                                        511,
+                                        416.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        416.6666666666667,
+                                        511,
+                                        579.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        92,
+                        558,
+                        487,
+                        586
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                92,
+                                558,
+                                487,
+                                586
+                            ],
+                            "group_id": 0,
+                            "lines": [],
+                            "index": 3,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        558,
+                                        487,
+                                        586
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        593,
+                        395,
+                        607
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                595,
+                                394,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        595,
+                                        394,
+                                        606
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.提前准备操作过程中所使用的工具：低压绝缘手套、安全帽等。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        92,
+                        616,
+                        505,
+                        653
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                94,
+                                619,
+                                503,
+                                630
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        619,
+                                        503,
+                                        630
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2.安装、操作和维护过程中必须使用专用的防护用具，如佩戴低压绝缘手套，佩戴护目镜、",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                642,
+                                257,
+                                654
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        642,
+                                        257,
+                                        654
+                                    ],
+                                    "score": 1.0,
+                                    "content": "穿安全服、戴安全帽、穿安全鞋等。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 5.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        94,
+                        663,
+                        422,
+                        685
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                99,
+                                667,
+                                420,
+                                681
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        667,
+                                        143,
+                                        681
+                                    ],
+                                    "score": 1.0,
+                                    "content": "第8 部分",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        241,
+                                        668,
+                                        420,
+                                        680
+                                    ],
+                                    "score": 1.0,
+                                    "content": "本标准操作流程执行后所做的检查工作",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        706,
+                        260,
+                        718
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                707,
+                                257,
+                                718
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        707,
+                                        257,
+                                        718
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.检查确认UPS 各指示灯显示正常。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        729,
+                        269,
+                        742
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                731,
+                                267,
+                                741
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        731,
+                                        267,
+                                        741
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2.检查确认UPS 各参数在合理范围内。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                595.2999877929688,
+                841.9000244140625
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        92,
+                        558,
+                        487,
+                        586
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                92,
+                                558,
+                                487,
+                                586
+                            ],
+                            "group_id": 0,
+                            "lines": [],
+                            "index": 3,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        558,
+                                        487,
+                                        586
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        86,
+                        92,
+                        511,
+                        579
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                86,
+                                92,
+                                511,
+                                579
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        92,
+                                        511,
+                                        579
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                86,
+                                                92,
+                                                511,
+                                                579
+                                            ],
+                                            "score": 0.5208272933959961,
+                                            "html": "<html><body><table><tr><td rowspan=\"2\">第01部分 SOP标题</td><td>流程名称</td><td>流程编号</td><td>版本号</td></tr><tr><td>维谛模块化UPS旁路切换操作 流程标准（SOP)</td><td>SD-YJD-UPS-06</td><td>V1.0</td></tr><tr><td rowspan=\"2\">第02部分 现场信息</td><td>基地名称</td><td>适用范围</td><td>专业负责人</td></tr><tr><td>云计算基地</td><td>A2机楼</td><td>赵玲玲</td></tr><tr><td rowspan=\"4\">第03部分 设备信息</td><td>设备厂家</td><td>设备名称</td><td>设备型号</td></tr><tr><td>维谛</td><td>不间断供电系统</td><td>Liebert EPM 0400kTK16FN0100 0</td></tr><tr><td>负责人电话</td><td>售后联系电话</td><td>设备厂家技术支 持电话</td></tr><tr><td>刘晓辉</td><td>13210093575</td><td>13210093575</td></tr><tr><td>第04部分</td><td colspan=\"3\">执行本标准操作流程的原因</td></tr><tr><td colspan=\"4\">用于UPS正常运行模式切换至旁路模式，特制定此规程。</td></tr><tr><td>第05部分</td><td colspan=\"3\">本标准操作流程的安全要求</td></tr><tr><td colspan=\"4\">1.现场操作应2人，一人操作，另一人监护; 2.准备好绝缘手套、绝缘靴及安全帽等；</td></tr><tr><td colspan=\"4\">第06部分 本标准操作流程的各种风险</td></tr><tr><td colspan=\"4\">1.误操作，导致设备掉电； 2.人身触电风险；</td></tr><tr><td colspan=\"4\">第07部分 本标准操作流程所需各项检查及准备工作、仪器仪表及耗材</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "53d17ee2e3b30fc231b709b252093682b765bec98b703dceadf90383d4f59513.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        92,
+                                        511,
+                                        254.33333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        254.33333333333334,
+                                        511,
+                                        416.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        416.6666666666667,
+                                        511,
+                                        579.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        272,
+                        783,
+                        322,
+                        799
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                271,
+                                782,
+                                323,
+                                800
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        271,
+                                        782,
+                                        323,
+                                        800
+                                    ],
+                                    "score": 1.0,
+                                    "content": "第1 页",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        86,
+                        92,
+                        511,
+                        579
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                86,
+                                92,
+                                511,
+                                579
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        92,
+                                        511,
+                                        579
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                86,
+                                                92,
+                                                511,
+                                                579
+                                            ],
+                                            "score": 0.5208272933959961,
+                                            "html": "<html><body><table><tr><td rowspan=\"2\">第01部分 SOP标题</td><td>流程名称</td><td>流程编号</td><td>版本号</td></tr><tr><td>维谛模块化UPS旁路切换操作 流程标准（SOP)</td><td>SD-YJD-UPS-06</td><td>V1.0</td></tr><tr><td rowspan=\"2\">第02部分 现场信息</td><td>基地名称</td><td>适用范围</td><td>专业负责人</td></tr><tr><td>云计算基地</td><td>A2机楼</td><td>赵玲玲</td></tr><tr><td rowspan=\"4\">第03部分 设备信息</td><td>设备厂家</td><td>设备名称</td><td>设备型号</td></tr><tr><td>维谛</td><td>不间断供电系统</td><td>Liebert EPM 0400kTK16FN0100 0</td></tr><tr><td>负责人电话</td><td>售后联系电话</td><td>设备厂家技术支 持电话</td></tr><tr><td>刘晓辉</td><td>13210093575</td><td>13210093575</td></tr><tr><td>第04部分</td><td colspan=\"3\">执行本标准操作流程的原因</td></tr><tr><td colspan=\"4\">用于UPS正常运行模式切换至旁路模式，特制定此规程。</td></tr><tr><td>第05部分</td><td colspan=\"3\">本标准操作流程的安全要求</td></tr><tr><td colspan=\"4\">1.现场操作应2人，一人操作，另一人监护; 2.准备好绝缘手套、绝缘靴及安全帽等；</td></tr><tr><td colspan=\"4\">第06部分 本标准操作流程的各种风险</td></tr><tr><td colspan=\"4\">1.误操作，导致设备掉电； 2.人身触电风险；</td></tr><tr><td colspan=\"4\">第07部分 本标准操作流程所需各项检查及准备工作、仪器仪表及耗材</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "53d17ee2e3b30fc231b709b252093682b765bec98b703dceadf90383d4f59513.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        92,
+                                        511,
+                                        254.33333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        254.33333333333334,
+                                        511,
+                                        416.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        416.6666666666667,
+                                        511,
+                                        579.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        92,
+                        558,
+                        487,
+                        586
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                92,
+                                558,
+                                487,
+                                586
+                            ],
+                            "group_id": 0,
+                            "lines": [],
+                            "index": 3,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        558,
+                                        487,
+                                        586
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        593,
+                        395,
+                        607
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                595,
+                                394,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        595,
+                                        394,
+                                        606
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.提前准备操作过程中所使用的工具：低压绝缘手套、安全帽等。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ],
+                    "bbox_fs": [
+                        96,
+                        595,
+                        394,
+                        606
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        92,
+                        616,
+                        505,
+                        653
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                94,
+                                619,
+                                503,
+                                630
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        619,
+                                        503,
+                                        630
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2.安装、操作和维护过程中必须使用专用的防护用具，如佩戴低压绝缘手套，佩戴护目镜、",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                642,
+                                257,
+                                654
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        642,
+                                        257,
+                                        654
+                                    ],
+                                    "score": 1.0,
+                                    "content": "穿安全服、戴安全帽、穿安全鞋等。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 5.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ],
+                    "bbox_fs": [
+                        94,
+                        619,
+                        503,
+                        654
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        94,
+                        663,
+                        422,
+                        685
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                99,
+                                667,
+                                420,
+                                681
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        667,
+                                        143,
+                                        681
+                                    ],
+                                    "score": 1.0,
+                                    "content": "第8 部分",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        241,
+                                        668,
+                                        420,
+                                        680
+                                    ],
+                                    "score": 1.0,
+                                    "content": "本标准操作流程执行后所做的检查工作",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ],
+                    "bbox_fs": [
+                        99,
+                        667,
+                        420,
+                        681
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        706,
+                        260,
+                        718
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                707,
+                                257,
+                                718
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        707,
+                                        257,
+                                        718
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.检查确认UPS 各指示灯显示正常。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 8,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ],
+                    "bbox_fs": [
+                        95,
+                        707,
+                        257,
+                        718
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        729,
+                        269,
+                        742
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                731,
+                                267,
+                                741
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        731,
+                                        267,
+                                        741
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2.检查确认UPS 各参数在合理范围内。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ],
+                    "bbox_fs": [
+                        95,
+                        731,
+                        267,
+                        741
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        89,
+                        71,
+                        508,
+                        201
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                89,
+                                71,
+                                508,
+                                201
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        71,
+                                        508,
+                                        201
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                89,
+                                                71,
+                                                508,
+                                                201
+                                            ],
+                                            "score": 0.999975860118866,
+                                            "html": "<html><body><table><tr><td>第9部分</td><td colspan=\"3\">本标准操作流程的批准</td></tr><tr><td rowspan=\"2\">起草</td><td>起草人姓名</td><td>起草人职务</td><td>起草日期</td></tr><tr><td>赵玲玲</td><td>维护工程师</td><td>2024年1月31日</td></tr><tr><td rowspan=\"2\">审核</td><td>审核人姓名</td><td>审核人职务</td><td>审核日期</td></tr><tr><td>叶笑鸣</td><td>维护工程师</td><td>2024年3月20日</td></tr><tr><td rowspan=\"2\">批准</td><td>批准人姓名</td><td>批准人职务</td><td>批准日期</td></tr><tr><td>赵明</td><td>运维部主任</td><td>2024年3月20日</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "a824e61b087b8edc21672a3ac96036e6bb75b6dd6de2d14f2b7249a74e20d918.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        71,
+                                        508,
+                                        114.33333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        89,
+                                        114.33333333333334,
+                                        508,
+                                        157.66666666666669
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        89,
+                                        157.66666666666669,
+                                        508,
+                                        201.00000000000003
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        94,
+                        231,
+                        298,
+                        278
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                94,
+                                232,
+                                297,
+                                248
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        232,
+                                        297,
+                                        248
+                                    ],
+                                    "score": 1.0,
+                                    "content": "一、正常模式到旁路模式的切",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                93,
+                                262,
+                                117,
+                                281
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        262,
+                                        117,
+                                        281
+                                    ],
+                                    "score": 1.0,
+                                    "content": "换；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 3.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        308,
+                        205,
+                        422,
+                        219
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                308,
+                                205,
+                                420,
+                                218
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        205,
+                                        420,
+                                        218
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.1 点击、唤醒屏幕；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        307,
+                        227,
+                        503,
+                        242
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                308,
+                                229,
+                                500,
+                                241
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        229,
+                                        500,
+                                        241
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.2 点击“操作”按钮，弹出操作栏；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        307,
+                        250,
+                        503,
+                        368
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                307,
+                                250,
+                                503,
+                                368
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        307,
+                                        250,
+                                        503,
+                                        368
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                307,
+                                                250,
+                                                503,
+                                                368
+                                            ],
+                                            "score": 0.9999912977218628,
+                                            "type": "image",
+                                            "image_path": "6ed5d7cfd322aeef2753173516878c9e5fda7ef77402e964dbbc3b200f583e40.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        307,
+                                        250,
+                                        503,
+                                        264
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        264,
+                                        503,
+                                        278
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        278,
+                                        503,
+                                        292
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        292,
+                                        503,
+                                        306
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        306,
+                                        503,
+                                        320
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        320,
+                                        503,
+                                        334
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        334,
+                                        503,
+                                        348
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        348,
+                                        503,
+                                        362
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        362,
+                                        503,
+                                        376
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        307,
+                        375,
+                        505,
+                        436
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                308,
+                                378,
+                                502,
+                                389
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        378,
+                                        502,
+                                        389
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.3 点击图中所示的“逆变关机”的",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                312,
+                                400,
+                                503,
+                                414
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        312,
+                                        400,
+                                        503,
+                                        414
+                                    ],
+                                    "score": 1.0,
+                                    "content": "“关机”按钮，可将UPS 切换至旁路",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                307,
+                                423,
+                                339,
+                                438
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        307,
+                                        423,
+                                        339,
+                                        438
+                                    ],
+                                    "score": 1.0,
+                                    "content": "模式。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        307,
+                        443,
+                        507,
+                        563
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                307,
+                                443,
+                                507,
+                                563
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        307,
+                                        443,
+                                        507,
+                                        563
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                307,
+                                                443,
+                                                507,
+                                                563
+                                            ],
+                                            "score": 0.9999618530273438,
+                                            "type": "image",
+                                            "image_path": "a64dfc2f4615b268c615aa738f7594266e2ad21c523a6f4334ad9f619face0e9.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 23,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        307,
+                                        443,
+                                        507,
+                                        457
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        457,
+                                        507,
+                                        471
+                                    ],
+                                    "spans": [],
+                                    "index": 20
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        471,
+                                        507,
+                                        485
+                                    ],
+                                    "spans": [],
+                                    "index": 21
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        485,
+                                        507,
+                                        499
+                                    ],
+                                    "spans": [],
+                                    "index": 22
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        499,
+                                        507,
+                                        513
+                                    ],
+                                    "spans": [],
+                                    "index": 23
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        513,
+                                        507,
+                                        527
+                                    ],
+                                    "spans": [],
+                                    "index": 24
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        527,
+                                        507,
+                                        541
+                                    ],
+                                    "spans": [],
+                                    "index": 25
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        541,
+                                        507,
+                                        555
+                                    ],
+                                    "spans": [],
+                                    "index": 26
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        555,
+                                        507,
+                                        569
+                                    ],
+                                    "spans": [],
+                                    "index": 27
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 23
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        93,
+                        604,
+                        299,
+                        653
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                94,
+                                607,
+                                297,
+                                622
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        607,
+                                        297,
+                                        622
+                                    ],
+                                    "score": 1.0,
+                                    "content": "二、旁路模式到正常模式的切",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                93,
+                                636,
+                                115,
+                                655
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        636,
+                                        115,
+                                        655
+                                    ],
+                                    "score": 1.0,
+                                    "content": "换。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        }
+                    ],
+                    "index": 28.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        308,
+                        594,
+                        503,
+                        633
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                308,
+                                596,
+                                420,
+                                608
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        596,
+                                        420,
+                                        608
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.1 点击、唤醒屏幕；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                619,
+                                501,
+                                632
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        619,
+                                        501,
+                                        632
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.2 点击“操作”按钮，弹出操作栏；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        }
+                    ],
+                    "index": 30.5
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        307,
+                        641,
+                        504,
+                        758
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                307,
+                                641,
+                                504,
+                                758
+                            ],
+                            "group_id": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        307,
+                                        641,
+                                        504,
+                                        758
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                307,
+                                                641,
+                                                504,
+                                                758
+                                            ],
+                                            "score": 0.9998549222946167,
+                                            "type": "image",
+                                            "image_path": "d008be238458204c8f555822786011a91ea837931aa24fd0b63106cfbfca9af5.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 36,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        307,
+                                        641,
+                                        504,
+                                        655
+                                    ],
+                                    "spans": [],
+                                    "index": 32
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        655,
+                                        504,
+                                        669
+                                    ],
+                                    "spans": [],
+                                    "index": 33
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        669,
+                                        504,
+                                        683
+                                    ],
+                                    "spans": [],
+                                    "index": 34
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        683,
+                                        504,
+                                        697
+                                    ],
+                                    "spans": [],
+                                    "index": 35
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        697,
+                                        504,
+                                        711
+                                    ],
+                                    "spans": [],
+                                    "index": 36
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        711,
+                                        504,
+                                        725
+                                    ],
+                                    "spans": [],
+                                    "index": 37
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        725,
+                                        504,
+                                        739
+                                    ],
+                                    "spans": [],
+                                    "index": 38
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        739,
+                                        504,
+                                        753
+                                    ],
+                                    "spans": [],
+                                    "index": 39
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        753,
+                                        504,
+                                        767
+                                    ],
+                                    "spans": [],
+                                    "index": 40
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 36
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 1,
+            "page_size": [
+                595.2999877929688,
+                841.9000244140625
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        307,
+                        250,
+                        503,
+                        368
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                307,
+                                250,
+                                503,
+                                368
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        307,
+                                        250,
+                                        503,
+                                        368
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                307,
+                                                250,
+                                                503,
+                                                368
+                                            ],
+                                            "score": 0.9999912977218628,
+                                            "type": "image",
+                                            "image_path": "6ed5d7cfd322aeef2753173516878c9e5fda7ef77402e964dbbc3b200f583e40.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        307,
+                                        250,
+                                        503,
+                                        264
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        264,
+                                        503,
+                                        278
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        278,
+                                        503,
+                                        292
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        292,
+                                        503,
+                                        306
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        306,
+                                        503,
+                                        320
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        320,
+                                        503,
+                                        334
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        334,
+                                        503,
+                                        348
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        348,
+                                        503,
+                                        362
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        362,
+                                        503,
+                                        376
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        307,
+                        443,
+                        507,
+                        563
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                307,
+                                443,
+                                507,
+                                563
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        307,
+                                        443,
+                                        507,
+                                        563
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                307,
+                                                443,
+                                                507,
+                                                563
+                                            ],
+                                            "score": 0.9999618530273438,
+                                            "type": "image",
+                                            "image_path": "a64dfc2f4615b268c615aa738f7594266e2ad21c523a6f4334ad9f619face0e9.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 23,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        307,
+                                        443,
+                                        507,
+                                        457
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        457,
+                                        507,
+                                        471
+                                    ],
+                                    "spans": [],
+                                    "index": 20
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        471,
+                                        507,
+                                        485
+                                    ],
+                                    "spans": [],
+                                    "index": 21
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        485,
+                                        507,
+                                        499
+                                    ],
+                                    "spans": [],
+                                    "index": 22
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        499,
+                                        507,
+                                        513
+                                    ],
+                                    "spans": [],
+                                    "index": 23
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        513,
+                                        507,
+                                        527
+                                    ],
+                                    "spans": [],
+                                    "index": 24
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        527,
+                                        507,
+                                        541
+                                    ],
+                                    "spans": [],
+                                    "index": 25
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        541,
+                                        507,
+                                        555
+                                    ],
+                                    "spans": [],
+                                    "index": 26
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        555,
+                                        507,
+                                        569
+                                    ],
+                                    "spans": [],
+                                    "index": 27
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 23
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        307,
+                        641,
+                        504,
+                        758
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                307,
+                                641,
+                                504,
+                                758
+                            ],
+                            "group_id": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        307,
+                                        641,
+                                        504,
+                                        758
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                307,
+                                                641,
+                                                504,
+                                                758
+                                            ],
+                                            "score": 0.9998549222946167,
+                                            "type": "image",
+                                            "image_path": "d008be238458204c8f555822786011a91ea837931aa24fd0b63106cfbfca9af5.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 36,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        307,
+                                        641,
+                                        504,
+                                        655
+                                    ],
+                                    "spans": [],
+                                    "index": 32
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        655,
+                                        504,
+                                        669
+                                    ],
+                                    "spans": [],
+                                    "index": 33
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        669,
+                                        504,
+                                        683
+                                    ],
+                                    "spans": [],
+                                    "index": 34
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        683,
+                                        504,
+                                        697
+                                    ],
+                                    "spans": [],
+                                    "index": 35
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        697,
+                                        504,
+                                        711
+                                    ],
+                                    "spans": [],
+                                    "index": 36
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        711,
+                                        504,
+                                        725
+                                    ],
+                                    "spans": [],
+                                    "index": 37
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        725,
+                                        504,
+                                        739
+                                    ],
+                                    "spans": [],
+                                    "index": 38
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        739,
+                                        504,
+                                        753
+                                    ],
+                                    "spans": [],
+                                    "index": 39
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        753,
+                                        504,
+                                        767
+                                    ],
+                                    "spans": [],
+                                    "index": 40
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 36
+                }
+            ],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        89,
+                        71,
+                        508,
+                        201
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                89,
+                                71,
+                                508,
+                                201
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        71,
+                                        508,
+                                        201
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                89,
+                                                71,
+                                                508,
+                                                201
+                                            ],
+                                            "score": 0.999975860118866,
+                                            "html": "<html><body><table><tr><td>第9部分</td><td colspan=\"3\">本标准操作流程的批准</td></tr><tr><td rowspan=\"2\">起草</td><td>起草人姓名</td><td>起草人职务</td><td>起草日期</td></tr><tr><td>赵玲玲</td><td>维护工程师</td><td>2024年1月31日</td></tr><tr><td rowspan=\"2\">审核</td><td>审核人姓名</td><td>审核人职务</td><td>审核日期</td></tr><tr><td>叶笑鸣</td><td>维护工程师</td><td>2024年3月20日</td></tr><tr><td rowspan=\"2\">批准</td><td>批准人姓名</td><td>批准人职务</td><td>批准日期</td></tr><tr><td>赵明</td><td>运维部主任</td><td>2024年3月20日</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "a824e61b087b8edc21672a3ac96036e6bb75b6dd6de2d14f2b7249a74e20d918.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        71,
+                                        508,
+                                        114.33333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        89,
+                                        114.33333333333334,
+                                        508,
+                                        157.66666666666669
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        89,
+                                        157.66666666666669,
+                                        508,
+                                        201.00000000000003
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        272,
+                        783,
+                        322,
+                        799
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                272,
+                                782,
+                                323,
+                                800
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        272,
+                                        782,
+                                        323,
+                                        800
+                                    ],
+                                    "score": 1.0,
+                                    "content": "第2 页",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        89,
+                        71,
+                        508,
+                        201
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                89,
+                                71,
+                                508,
+                                201
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        71,
+                                        508,
+                                        201
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                89,
+                                                71,
+                                                508,
+                                                201
+                                            ],
+                                            "score": 0.999975860118866,
+                                            "html": "<html><body><table><tr><td>第9部分</td><td colspan=\"3\">本标准操作流程的批准</td></tr><tr><td rowspan=\"2\">起草</td><td>起草人姓名</td><td>起草人职务</td><td>起草日期</td></tr><tr><td>赵玲玲</td><td>维护工程师</td><td>2024年1月31日</td></tr><tr><td rowspan=\"2\">审核</td><td>审核人姓名</td><td>审核人职务</td><td>审核日期</td></tr><tr><td>叶笑鸣</td><td>维护工程师</td><td>2024年3月20日</td></tr><tr><td rowspan=\"2\">批准</td><td>批准人姓名</td><td>批准人职务</td><td>批准日期</td></tr><tr><td>赵明</td><td>运维部主任</td><td>2024年3月20日</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "a824e61b087b8edc21672a3ac96036e6bb75b6dd6de2d14f2b7249a74e20d918.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        71,
+                                        508,
+                                        114.33333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        89,
+                                        114.33333333333334,
+                                        508,
+                                        157.66666666666669
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        89,
+                                        157.66666666666669,
+                                        508,
+                                        201.00000000000003
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        94,
+                        231,
+                        298,
+                        278
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                94,
+                                232,
+                                297,
+                                248
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        232,
+                                        297,
+                                        248
+                                    ],
+                                    "score": 1.0,
+                                    "content": "一、正常模式到旁路模式的切",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                93,
+                                262,
+                                117,
+                                281
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        262,
+                                        117,
+                                        281
+                                    ],
+                                    "score": 1.0,
+                                    "content": "换；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 3.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        308,
+                        205,
+                        422,
+                        219
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                308,
+                                205,
+                                420,
+                                218
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        205,
+                                        420,
+                                        218
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.1 点击、唤醒屏幕；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ],
+                    "bbox_fs": [
+                        308,
+                        205,
+                        420,
+                        218
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        307,
+                        227,
+                        503,
+                        242
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                308,
+                                229,
+                                500,
+                                241
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        229,
+                                        500,
+                                        241
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.2 点击“操作”按钮，弹出操作栏；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        307,
+                        250,
+                        503,
+                        368
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                307,
+                                250,
+                                503,
+                                368
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        307,
+                                        250,
+                                        503,
+                                        368
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                307,
+                                                250,
+                                                503,
+                                                368
+                                            ],
+                                            "score": 0.9999912977218628,
+                                            "type": "image",
+                                            "image_path": "6ed5d7cfd322aeef2753173516878c9e5fda7ef77402e964dbbc3b200f583e40.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        307,
+                                        250,
+                                        503,
+                                        264
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        264,
+                                        503,
+                                        278
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        278,
+                                        503,
+                                        292
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        292,
+                                        503,
+                                        306
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        306,
+                                        503,
+                                        320
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        320,
+                                        503,
+                                        334
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        334,
+                                        503,
+                                        348
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        348,
+                                        503,
+                                        362
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        362,
+                                        503,
+                                        376
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        307,
+                        375,
+                        505,
+                        436
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                308,
+                                378,
+                                502,
+                                389
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        378,
+                                        502,
+                                        389
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.3 点击图中所示的“逆变关机”的",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                312,
+                                400,
+                                503,
+                                414
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        312,
+                                        400,
+                                        503,
+                                        414
+                                    ],
+                                    "score": 1.0,
+                                    "content": "“关机”按钮，可将UPS 切换至旁路",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                307,
+                                423,
+                                339,
+                                438
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        307,
+                                        423,
+                                        339,
+                                        438
+                                    ],
+                                    "score": 1.0,
+                                    "content": "模式。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 17,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ],
+                    "bbox_fs": [
+                        307,
+                        378,
+                        503,
+                        438
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        307,
+                        443,
+                        507,
+                        563
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                307,
+                                443,
+                                507,
+                                563
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        307,
+                                        443,
+                                        507,
+                                        563
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                307,
+                                                443,
+                                                507,
+                                                563
+                                            ],
+                                            "score": 0.9999618530273438,
+                                            "type": "image",
+                                            "image_path": "a64dfc2f4615b268c615aa738f7594266e2ad21c523a6f4334ad9f619face0e9.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 23,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        307,
+                                        443,
+                                        507,
+                                        457
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        457,
+                                        507,
+                                        471
+                                    ],
+                                    "spans": [],
+                                    "index": 20
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        471,
+                                        507,
+                                        485
+                                    ],
+                                    "spans": [],
+                                    "index": 21
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        485,
+                                        507,
+                                        499
+                                    ],
+                                    "spans": [],
+                                    "index": 22
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        499,
+                                        507,
+                                        513
+                                    ],
+                                    "spans": [],
+                                    "index": 23
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        513,
+                                        507,
+                                        527
+                                    ],
+                                    "spans": [],
+                                    "index": 24
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        527,
+                                        507,
+                                        541
+                                    ],
+                                    "spans": [],
+                                    "index": 25
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        541,
+                                        507,
+                                        555
+                                    ],
+                                    "spans": [],
+                                    "index": 26
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        555,
+                                        507,
+                                        569
+                                    ],
+                                    "spans": [],
+                                    "index": 27
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 23,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        93,
+                        604,
+                        299,
+                        653
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                94,
+                                607,
+                                297,
+                                622
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        607,
+                                        297,
+                                        622
+                                    ],
+                                    "score": 1.0,
+                                    "content": "二、旁路模式到正常模式的切",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                93,
+                                636,
+                                115,
+                                655
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        636,
+                                        115,
+                                        655
+                                    ],
+                                    "score": 1.0,
+                                    "content": "换。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        }
+                    ],
+                    "index": 28.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ]
+                },
+                {
+                    "type": "index",
+                    "bbox": [
+                        308,
+                        594,
+                        503,
+                        633
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                308,
+                                596,
+                                420,
+                                608
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        596,
+                                        420,
+                                        608
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.1 点击、唤醒屏幕；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                619,
+                                501,
+                                632
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        619,
+                                        501,
+                                        632
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.2 点击“操作”按钮，弹出操作栏；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31,
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "index": 30.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ],
+                    "bbox_fs": [
+                        308,
+                        596,
+                        501,
+                        632
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        307,
+                        641,
+                        504,
+                        758
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                307,
+                                641,
+                                504,
+                                758
+                            ],
+                            "group_id": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        307,
+                                        641,
+                                        504,
+                                        758
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                307,
+                                                641,
+                                                504,
+                                                758
+                                            ],
+                                            "score": 0.9998549222946167,
+                                            "type": "image",
+                                            "image_path": "d008be238458204c8f555822786011a91ea837931aa24fd0b63106cfbfca9af5.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 36,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        307,
+                                        641,
+                                        504,
+                                        655
+                                    ],
+                                    "spans": [],
+                                    "index": 32
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        655,
+                                        504,
+                                        669
+                                    ],
+                                    "spans": [],
+                                    "index": 33
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        669,
+                                        504,
+                                        683
+                                    ],
+                                    "spans": [],
+                                    "index": 34
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        683,
+                                        504,
+                                        697
+                                    ],
+                                    "spans": [],
+                                    "index": 35
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        697,
+                                        504,
+                                        711
+                                    ],
+                                    "spans": [],
+                                    "index": 36
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        711,
+                                        504,
+                                        725
+                                    ],
+                                    "spans": [],
+                                    "index": 37
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        725,
+                                        504,
+                                        739
+                                    ],
+                                    "spans": [],
+                                    "index": 38
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        739,
+                                        504,
+                                        753
+                                    ],
+                                    "spans": [],
+                                    "index": 39
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        753,
+                                        504,
+                                        767
+                                    ],
+                                    "spans": [],
+                                    "index": 40
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 36,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        89,
+                        69,
+                        510,
+                        362
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                89,
+                                69,
+                                510,
+                                362
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        69,
+                                        510,
+                                        362
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                89,
+                                                69,
+                                                510,
+                                                362
+                                            ],
+                                            "score": 0.890426516532898,
+                                            "html": "<html><body><table><tr><td rowspan=\"3\"></td><td>2.1旁路模式下，点击图中所示的“逆 变开机”的“开机”按钮，完成逆变 开机后，UPS切换到正常模式。 状态 操作 逆变供电 注</td></tr><tr><td>机器操作 消音 系统>UPS1 逆变开机 开机 逆变关机 关机 故障清除 清除</td></tr><tr><td>节能模式状态 禁止 ECO切旁路剩余时间 00:16:40 节能模式设置 设置</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "757d5fbb7876a9a3368e3deef0eaa888b6182c5814cee59cea58e5e42d2abe2a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        69,
+                                        510,
+                                        166.66666666666669
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        89,
+                                        166.66666666666669,
+                                        510,
+                                        264.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        89,
+                                        264.33333333333337,
+                                        510,
+                                        362.00000000000006
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 2,
+            "page_size": [
+                595.2999877929688,
+                841.9000244140625
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        89,
+                        69,
+                        510,
+                        362
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                89,
+                                69,
+                                510,
+                                362
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        69,
+                                        510,
+                                        362
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                89,
+                                                69,
+                                                510,
+                                                362
+                                            ],
+                                            "score": 0.890426516532898,
+                                            "html": "<html><body><table><tr><td rowspan=\"3\"></td><td>2.1旁路模式下，点击图中所示的“逆 变开机”的“开机”按钮，完成逆变 开机后，UPS切换到正常模式。 状态 操作 逆变供电 注</td></tr><tr><td>机器操作 消音 系统>UPS1 逆变开机 开机 逆变关机 关机 故障清除 清除</td></tr><tr><td>节能模式状态 禁止 ECO切旁路剩余时间 00:16:40 节能模式设置 设置</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "757d5fbb7876a9a3368e3deef0eaa888b6182c5814cee59cea58e5e42d2abe2a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        69,
+                                        510,
+                                        166.66666666666669
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        89,
+                                        166.66666666666669,
+                                        510,
+                                        264.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        89,
+                                        264.33333333333337,
+                                        510,
+                                        362.00000000000006
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        272,
+                        783,
+                        322,
+                        799
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                272,
+                                782,
+                                323,
+                                799
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        272,
+                                        782,
+                                        323,
+                                        799
+                                    ],
+                                    "score": 1.0,
+                                    "content": "第3 页",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        89,
+                        69,
+                        510,
+                        362
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                89,
+                                69,
+                                510,
+                                362
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        69,
+                                        510,
+                                        362
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                89,
+                                                69,
+                                                510,
+                                                362
+                                            ],
+                                            "score": 0.890426516532898,
+                                            "html": "<html><body><table><tr><td rowspan=\"3\"></td><td>2.1旁路模式下，点击图中所示的“逆 变开机”的“开机”按钮，完成逆变 开机后，UPS切换到正常模式。 状态 操作 逆变供电 注</td></tr><tr><td>机器操作 消音 系统>UPS1 逆变开机 开机 逆变关机 关机 故障清除 清除</td></tr><tr><td>节能模式状态 禁止 ECO切旁路剩余时间 00:16:40 节能模式设置 设置</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "757d5fbb7876a9a3368e3deef0eaa888b6182c5814cee59cea58e5e42d2abe2a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        69,
+                                        510,
+                                        166.66666666666669
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        89,
+                                        166.66666666666669,
+                                        510,
+                                        264.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        89,
+                                        264.33333333333337,
+                                        510,
+                                        362.00000000000006
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_2",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "txt",
+    "_version_name": "0.10.6"
+}

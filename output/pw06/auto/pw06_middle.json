@@ -1,0 +1,4671 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        86,
+                        91,
+                        512,
+                        559
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                86,
+                                91,
+                                512,
+                                559
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        91,
+                                        512,
+                                        559
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                86,
+                                                91,
+                                                512,
+                                                559
+                                            ],
+                                            "score": 0.6146442294120789,
+                                            "html": "<html><body><table><tr><td rowspan=\"2\">第01部分 SOP标题</td><td>流程名称</td><td>流程编号</td><td>版本号</td></tr><tr><td>维谛模块化UPS 故障告警查看 操作流程标准 （SOP)</td><td>SD-YJD-UPS-02</td><td>V1.0</td></tr><tr><td rowspan=\"2\">第02部分 现场信息</td><td>基地名称</td><td>适用范围</td><td>专业负责人</td></tr><tr><td>云计算基地</td><td>A2机楼</td><td>赵玲玲</td></tr><tr><td rowspan=\"4\">第03部分 设备信息</td><td>设备厂家</td><td>设备名称</td><td>设备型号</td></tr><tr><td>维谛</td><td>不间断供电系统</td><td>Liebert EPM 0400kTK16FN0100 0</td></tr><tr><td>负责人电话</td><td>售后联系电话</td><td>设备厂家技术支 持电话</td></tr><tr><td>刘晓辉</td><td>13210093575</td><td>13210093575</td></tr><tr><td>第04部分</td><td colspan=\"3\">执行本标准操作流程的原因</td></tr><tr><td colspan=\"4\">便于查看UPS故障告警信息，针对故障快速处理，特制定此规程。</td></tr><tr><td>第05部分</td><td colspan=\"3\">本标准操作流程的安全要求</td></tr><tr><td colspan=\"4\">1.现场操作应2人，一人操作，另一人监护； 2.准备好低压绝缘手套、绝缘靴及安全帽等；</td></tr><tr><td colspan=\"4\">第06部分 本标准操作流程的各种风险</td></tr><tr><td colspan=\"4\">1.误操作，导致设备掉电; 2.人身触电风险；</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "cfbd396b724c8b7398d91ab178f93fc385fc08c27c9dcecd8cf584b02124bd75.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        91,
+                                        512,
+                                        247.0
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        247.0,
+                                        512,
+                                        403.0
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        403.0,
+                                        512,
+                                        559.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        92,
+                        558,
+                        484,
+                        586
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                92,
+                                558,
+                                484,
+                                586
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        558,
+                                        484,
+                                        586
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                92,
+                                                558,
+                                                484,
+                                                586
+                                            ],
+                                            "score": 0.3898814916610718,
+                                            "type": "image",
+                                            "image_path": "2bc4038e6c1426c232303265cca9c87195c228fd2019bcf947bb73c6b7505282.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        558,
+                                        484,
+                                        586
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        593,
+                        395,
+                        607
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                595,
+                                394,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        595,
+                                        394,
+                                        606
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.提前准备操作过程中所使用的工具：低压绝缘手套、安全帽等。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        92,
+                        617,
+                        505,
+                        653
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                94,
+                                618,
+                                503,
+                                630
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        618,
+                                        503,
+                                        630
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2.安装、操作和维护过程中必须使用专用的防护用具，如佩戴低压绝缘手套，佩戴护目镜、",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                642,
+                                257,
+                                654
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        642,
+                                        257,
+                                        654
+                                    ],
+                                    "score": 1.0,
+                                    "content": "穿安全服、戴安全帽、穿安全鞋等。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 5.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        94,
+                        663,
+                        422,
+                        685
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                99,
+                                667,
+                                420,
+                                681
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        667,
+                                        143,
+                                        681
+                                    ],
+                                    "score": 1.0,
+                                    "content": "第8 部分",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        241,
+                                        668,
+                                        420,
+                                        680
+                                    ],
+                                    "score": 1.0,
+                                    "content": "本标准操作流程执行后所做的检查工作",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        94,
+                        699,
+                        254,
+                        711
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                700,
+                                251,
+                                711
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        700,
+                                        251,
+                                        711
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1、检查确认故障告警是否已消除；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        722,
+                        290,
+                        735
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                724,
+                                287,
+                                734
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        724,
+                                        287,
+                                        734
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2.检查确认UPS 面板状态指示灯指示正确；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        746,
+                        280,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                747,
+                                277,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        747,
+                                        277,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "3.检查确认UPS 各参数是否合理范围内。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                595.2999877929688,
+                841.9000244140625
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        92,
+                        558,
+                        484,
+                        586
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                92,
+                                558,
+                                484,
+                                586
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        558,
+                                        484,
+                                        586
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                92,
+                                                558,
+                                                484,
+                                                586
+                                            ],
+                                            "score": 0.3898814916610718,
+                                            "type": "image",
+                                            "image_path": "2bc4038e6c1426c232303265cca9c87195c228fd2019bcf947bb73c6b7505282.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        558,
+                                        484,
+                                        586
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        86,
+                        91,
+                        512,
+                        559
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                86,
+                                91,
+                                512,
+                                559
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        91,
+                                        512,
+                                        559
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                86,
+                                                91,
+                                                512,
+                                                559
+                                            ],
+                                            "score": 0.6146442294120789,
+                                            "html": "<html><body><table><tr><td rowspan=\"2\">第01部分 SOP标题</td><td>流程名称</td><td>流程编号</td><td>版本号</td></tr><tr><td>维谛模块化UPS 故障告警查看 操作流程标准 （SOP)</td><td>SD-YJD-UPS-02</td><td>V1.0</td></tr><tr><td rowspan=\"2\">第02部分 现场信息</td><td>基地名称</td><td>适用范围</td><td>专业负责人</td></tr><tr><td>云计算基地</td><td>A2机楼</td><td>赵玲玲</td></tr><tr><td rowspan=\"4\">第03部分 设备信息</td><td>设备厂家</td><td>设备名称</td><td>设备型号</td></tr><tr><td>维谛</td><td>不间断供电系统</td><td>Liebert EPM 0400kTK16FN0100 0</td></tr><tr><td>负责人电话</td><td>售后联系电话</td><td>设备厂家技术支 持电话</td></tr><tr><td>刘晓辉</td><td>13210093575</td><td>13210093575</td></tr><tr><td>第04部分</td><td colspan=\"3\">执行本标准操作流程的原因</td></tr><tr><td colspan=\"4\">便于查看UPS故障告警信息，针对故障快速处理，特制定此规程。</td></tr><tr><td>第05部分</td><td colspan=\"3\">本标准操作流程的安全要求</td></tr><tr><td colspan=\"4\">1.现场操作应2人，一人操作，另一人监护； 2.准备好低压绝缘手套、绝缘靴及安全帽等；</td></tr><tr><td colspan=\"4\">第06部分 本标准操作流程的各种风险</td></tr><tr><td colspan=\"4\">1.误操作，导致设备掉电; 2.人身触电风险；</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "cfbd396b724c8b7398d91ab178f93fc385fc08c27c9dcecd8cf584b02124bd75.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        91,
+                                        512,
+                                        247.0
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        247.0,
+                                        512,
+                                        403.0
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        403.0,
+                                        512,
+                                        559.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        272,
+                        783,
+                        322,
+                        799
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                272,
+                                782,
+                                322,
+                                800
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        272,
+                                        782,
+                                        322,
+                                        800
+                                    ],
+                                    "score": 1.0,
+                                    "content": "第1 页",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        86,
+                        91,
+                        512,
+                        559
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                86,
+                                91,
+                                512,
+                                559
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        91,
+                                        512,
+                                        559
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                86,
+                                                91,
+                                                512,
+                                                559
+                                            ],
+                                            "score": 0.6146442294120789,
+                                            "html": "<html><body><table><tr><td rowspan=\"2\">第01部分 SOP标题</td><td>流程名称</td><td>流程编号</td><td>版本号</td></tr><tr><td>维谛模块化UPS 故障告警查看 操作流程标准 （SOP)</td><td>SD-YJD-UPS-02</td><td>V1.0</td></tr><tr><td rowspan=\"2\">第02部分 现场信息</td><td>基地名称</td><td>适用范围</td><td>专业负责人</td></tr><tr><td>云计算基地</td><td>A2机楼</td><td>赵玲玲</td></tr><tr><td rowspan=\"4\">第03部分 设备信息</td><td>设备厂家</td><td>设备名称</td><td>设备型号</td></tr><tr><td>维谛</td><td>不间断供电系统</td><td>Liebert EPM 0400kTK16FN0100 0</td></tr><tr><td>负责人电话</td><td>售后联系电话</td><td>设备厂家技术支 持电话</td></tr><tr><td>刘晓辉</td><td>13210093575</td><td>13210093575</td></tr><tr><td>第04部分</td><td colspan=\"3\">执行本标准操作流程的原因</td></tr><tr><td colspan=\"4\">便于查看UPS故障告警信息，针对故障快速处理，特制定此规程。</td></tr><tr><td>第05部分</td><td colspan=\"3\">本标准操作流程的安全要求</td></tr><tr><td colspan=\"4\">1.现场操作应2人，一人操作，另一人监护； 2.准备好低压绝缘手套、绝缘靴及安全帽等；</td></tr><tr><td colspan=\"4\">第06部分 本标准操作流程的各种风险</td></tr><tr><td colspan=\"4\">1.误操作，导致设备掉电; 2.人身触电风险；</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "cfbd396b724c8b7398d91ab178f93fc385fc08c27c9dcecd8cf584b02124bd75.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        91,
+                                        512,
+                                        247.0
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        247.0,
+                                        512,
+                                        403.0
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        403.0,
+                                        512,
+                                        559.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        92,
+                        558,
+                        484,
+                        586
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                92,
+                                558,
+                                484,
+                                586
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        558,
+                                        484,
+                                        586
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                92,
+                                                558,
+                                                484,
+                                                586
+                                            ],
+                                            "score": 0.3898814916610718,
+                                            "type": "image",
+                                            "image_path": "2bc4038e6c1426c232303265cca9c87195c228fd2019bcf947bb73c6b7505282.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        558,
+                                        484,
+                                        586
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        593,
+                        395,
+                        607
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                595,
+                                394,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        595,
+                                        394,
+                                        606
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.提前准备操作过程中所使用的工具：低压绝缘手套、安全帽等。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ],
+                    "bbox_fs": [
+                        96,
+                        595,
+                        394,
+                        606
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        92,
+                        617,
+                        505,
+                        653
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                94,
+                                618,
+                                503,
+                                630
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        618,
+                                        503,
+                                        630
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2.安装、操作和维护过程中必须使用专用的防护用具，如佩戴低压绝缘手套，佩戴护目镜、",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                642,
+                                257,
+                                654
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        642,
+                                        257,
+                                        654
+                                    ],
+                                    "score": 1.0,
+                                    "content": "穿安全服、戴安全帽、穿安全鞋等。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 5.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ],
+                    "bbox_fs": [
+                        94,
+                        618,
+                        503,
+                        654
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        94,
+                        663,
+                        422,
+                        685
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                99,
+                                667,
+                                420,
+                                681
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        667,
+                                        143,
+                                        681
+                                    ],
+                                    "score": 1.0,
+                                    "content": "第8 部分",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        241,
+                                        668,
+                                        420,
+                                        680
+                                    ],
+                                    "score": 1.0,
+                                    "content": "本标准操作流程执行后所做的检查工作",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ],
+                    "bbox_fs": [
+                        99,
+                        667,
+                        420,
+                        681
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        94,
+                        699,
+                        254,
+                        711
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                700,
+                                251,
+                                711
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        700,
+                                        251,
+                                        711
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1、检查确认故障告警是否已消除；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 8,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ],
+                    "bbox_fs": [
+                        95,
+                        700,
+                        251,
+                        711
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        722,
+                        290,
+                        735
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                724,
+                                287,
+                                734
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        724,
+                                        287,
+                                        734
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2.检查确认UPS 面板状态指示灯指示正确；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ],
+                    "bbox_fs": [
+                        95,
+                        724,
+                        287,
+                        734
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        746,
+                        280,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                747,
+                                277,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        747,
+                                        277,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "3.检查确认UPS 各参数是否合理范围内。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ],
+                    "bbox_fs": [
+                        95,
+                        747,
+                        277,
+                        758
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        89,
+                        71,
+                        508,
+                        201
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                89,
+                                71,
+                                508,
+                                201
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        71,
+                                        508,
+                                        201
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                89,
+                                                71,
+                                                508,
+                                                201
+                                            ],
+                                            "score": 0.9991697669029236,
+                                            "html": "<html><body><table><tr><td>第9部分</td><td colspan=\"3\">本标准操作流程的批准</td></tr><tr><td rowspan=\"2\">起草</td><td>起草人姓名</td><td>起草人职务</td><td>起草日期</td></tr><tr><td>赵玲玲</td><td>维护工程师</td><td>2024年1月31日</td></tr><tr><td rowspan=\"2\">审核</td><td>审核人姓名</td><td>审核人职务</td><td>审核日期</td></tr><tr><td>叶笑鸣</td><td>维护工程师</td><td>2024年3月20日</td></tr><tr><td rowspan=\"2\">批准</td><td>批准人姓名</td><td>批准人职务</td><td>批准日期</td></tr><tr><td>赵明</td><td>运维部主任</td><td>2024年3月20日</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "cc52afdf396d32f86afd994cfa67cb120532f80e60d5adb3d950e37f90c0701f.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        71,
+                                        508,
+                                        114.33333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        89,
+                                        114.33333333333334,
+                                        508,
+                                        157.66666666666669
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        89,
+                                        157.66666666666669,
+                                        508,
+                                        201.00000000000003
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        93,
+                        207,
+                        291,
+                        225
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                209,
+                                291,
+                                224
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        209,
+                                        291,
+                                        224
+                                    ],
+                                    "score": 1.0,
+                                    "content": "一、查看UPS 主屏幕故障告警；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        308,
+                        204,
+                        422,
+                        218
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                308,
+                                205,
+                                420,
+                                218
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        205,
+                                        420,
+                                        218
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.1 点击、唤醒屏幕；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        305,
+                        218,
+                        508,
+                        408
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                308,
+                                229,
+                                502,
+                                241
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        229,
+                                        502,
+                                        241
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.2 状态指示灯：如图所示，屏幕最",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                252,
+                                503,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        252,
+                                        503,
+                                        265
+                                    ],
+                                    "score": 1.0,
+                                    "content": "左侧和右下角有两处状态指示灯。当",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                276,
+                                503,
+                                288
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        276,
+                                        503,
+                                        288
+                                    ],
+                                    "score": 1.0,
+                                    "content": "指示灯绿色表示运行正常；黄色表示",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                298,
+                                470,
+                                313
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        298,
+                                        470,
+                                        313
+                                    ],
+                                    "score": 1.0,
+                                    "content": "一般告警；红色表示严重告警。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                323,
+                                503,
+                                335
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        323,
+                                        503,
+                                        335
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.3 状态条：状态条背景颜色绿色表",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                346,
+                                503,
+                                358
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        346,
+                                        503,
+                                        358
+                                    ],
+                                    "score": 1.0,
+                                    "content": "示正常；黄色代表一般告警，红色代",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                370,
+                                501,
+                                382
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        370,
+                                        501,
+                                        382
+                                    ],
+                                    "score": 1.0,
+                                    "content": "表重要告警。消息内容说明告警信息，",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                393,
+                                434,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        393,
+                                        434,
+                                        406
+                                    ],
+                                    "score": 1.0,
+                                    "content": "当前提示“工作正常”。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 8.5
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        306,
+                        415,
+                        508,
+                        529
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                306,
+                                415,
+                                508,
+                                529
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        306,
+                                        415,
+                                        508,
+                                        529
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                306,
+                                                415,
+                                                508,
+                                                529
+                                            ],
+                                            "score": 0.9999260306358337,
+                                            "type": "image",
+                                            "image_path": "2ffeac1664b5f2a63c4ef3cd49f91e7bd7be3261edf4a65722a5fe2cdb706c8d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 17.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        306,
+                                        415,
+                                        508,
+                                        427.0
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        427.0,
+                                        508,
+                                        439.0
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        439.0,
+                                        508,
+                                        451.0
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        451.0,
+                                        508,
+                                        463.0
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        463.0,
+                                        508,
+                                        475.0
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        475.0,
+                                        508,
+                                        487.0
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        487.0,
+                                        508,
+                                        499.0
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        499.0,
+                                        508,
+                                        511.0
+                                    ],
+                                    "spans": [],
+                                    "index": 20
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        511.0,
+                                        508,
+                                        523.0
+                                    ],
+                                    "spans": [],
+                                    "index": 21
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        523.0,
+                                        508,
+                                        535.0
+                                    ],
+                                    "spans": [],
+                                    "index": 22
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        307,
+                        539,
+                        506,
+                        649
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                308,
+                                541,
+                                498,
+                                554
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        541,
+                                        498,
+                                        554
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.4 UPS 运行状态：“绿色功率流”",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                564,
+                                502,
+                                577
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        564,
+                                        502,
+                                        577
+                                    ],
+                                    "score": 1.0,
+                                    "content": "表示正常电压；“黄色功率流”表示",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                588,
+                                502,
+                                600
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        588,
+                                        502,
+                                        600
+                                    ],
+                                    "score": 1.0,
+                                    "content": "电压超范围。“绿色组件”表示正常；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                312,
+                                611,
+                                502,
+                                623
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        312,
+                                        611,
+                                        502,
+                                        623
+                                    ],
+                                    "score": 1.0,
+                                    "content": "“黄色组件”表示一般告警；“红色",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                635,
+                                421,
+                                647
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        635,
+                                        421,
+                                        647
+                                    ],
+                                    "score": 1.0,
+                                    "content": "组件”表示严重告警。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        }
+                    ],
+                    "index": 25
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        307,
+                        656,
+                        506,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                308,
+                                659,
+                                503,
+                                671
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        659,
+                                        503,
+                                        671
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.5 本机状态：如图所示，表盘上部",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                682,
+                                496,
+                                694
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        682,
+                                        496,
+                                        694
+                                    ],
+                                    "score": 1.0,
+                                    "content": "表示负载，当负载超过设置的阈值，",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                705,
+                                502,
+                                717
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        705,
+                                        502,
+                                        717
+                                    ],
+                                    "score": 1.0,
+                                    "content": "表头将显示黄色或红色；表头下部表",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                729,
+                                500,
+                                740
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        729,
+                                        500,
+                                        740
+                                    ],
+                                    "score": 1.0,
+                                    "content": "示电池，当电池容量低于设置的阈值，",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                752,
+                                501,
+                                764
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        752,
+                                        501,
+                                        764
+                                    ],
+                                    "score": 1.0,
+                                    "content": "表头将显示黄色或红色。黄色表示一",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 30
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 1,
+            "page_size": [
+                595.2999877929688,
+                841.9000244140625
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        306,
+                        415,
+                        508,
+                        529
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                306,
+                                415,
+                                508,
+                                529
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        306,
+                                        415,
+                                        508,
+                                        529
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                306,
+                                                415,
+                                                508,
+                                                529
+                                            ],
+                                            "score": 0.9999260306358337,
+                                            "type": "image",
+                                            "image_path": "2ffeac1664b5f2a63c4ef3cd49f91e7bd7be3261edf4a65722a5fe2cdb706c8d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 17.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        306,
+                                        415,
+                                        508,
+                                        427.0
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        427.0,
+                                        508,
+                                        439.0
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        439.0,
+                                        508,
+                                        451.0
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        451.0,
+                                        508,
+                                        463.0
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        463.0,
+                                        508,
+                                        475.0
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        475.0,
+                                        508,
+                                        487.0
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        487.0,
+                                        508,
+                                        499.0
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        499.0,
+                                        508,
+                                        511.0
+                                    ],
+                                    "spans": [],
+                                    "index": 20
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        511.0,
+                                        508,
+                                        523.0
+                                    ],
+                                    "spans": [],
+                                    "index": 21
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        523.0,
+                                        508,
+                                        535.0
+                                    ],
+                                    "spans": [],
+                                    "index": 22
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17.5
+                }
+            ],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        89,
+                        71,
+                        508,
+                        201
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                89,
+                                71,
+                                508,
+                                201
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        71,
+                                        508,
+                                        201
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                89,
+                                                71,
+                                                508,
+                                                201
+                                            ],
+                                            "score": 0.9991697669029236,
+                                            "html": "<html><body><table><tr><td>第9部分</td><td colspan=\"3\">本标准操作流程的批准</td></tr><tr><td rowspan=\"2\">起草</td><td>起草人姓名</td><td>起草人职务</td><td>起草日期</td></tr><tr><td>赵玲玲</td><td>维护工程师</td><td>2024年1月31日</td></tr><tr><td rowspan=\"2\">审核</td><td>审核人姓名</td><td>审核人职务</td><td>审核日期</td></tr><tr><td>叶笑鸣</td><td>维护工程师</td><td>2024年3月20日</td></tr><tr><td rowspan=\"2\">批准</td><td>批准人姓名</td><td>批准人职务</td><td>批准日期</td></tr><tr><td>赵明</td><td>运维部主任</td><td>2024年3月20日</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "cc52afdf396d32f86afd994cfa67cb120532f80e60d5adb3d950e37f90c0701f.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        71,
+                                        508,
+                                        114.33333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        89,
+                                        114.33333333333334,
+                                        508,
+                                        157.66666666666669
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        89,
+                                        157.66666666666669,
+                                        508,
+                                        201.00000000000003
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        271,
+                        783,
+                        323,
+                        799
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                272,
+                                782,
+                                322,
+                                800
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        272,
+                                        782,
+                                        322,
+                                        800
+                                    ],
+                                    "score": 1.0,
+                                    "content": "第2 页",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        89,
+                        71,
+                        508,
+                        201
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                89,
+                                71,
+                                508,
+                                201
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        71,
+                                        508,
+                                        201
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                89,
+                                                71,
+                                                508,
+                                                201
+                                            ],
+                                            "score": 0.9991697669029236,
+                                            "html": "<html><body><table><tr><td>第9部分</td><td colspan=\"3\">本标准操作流程的批准</td></tr><tr><td rowspan=\"2\">起草</td><td>起草人姓名</td><td>起草人职务</td><td>起草日期</td></tr><tr><td>赵玲玲</td><td>维护工程师</td><td>2024年1月31日</td></tr><tr><td rowspan=\"2\">审核</td><td>审核人姓名</td><td>审核人职务</td><td>审核日期</td></tr><tr><td>叶笑鸣</td><td>维护工程师</td><td>2024年3月20日</td></tr><tr><td rowspan=\"2\">批准</td><td>批准人姓名</td><td>批准人职务</td><td>批准日期</td></tr><tr><td>赵明</td><td>运维部主任</td><td>2024年3月20日</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "cc52afdf396d32f86afd994cfa67cb120532f80e60d5adb3d950e37f90c0701f.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        71,
+                                        508,
+                                        114.33333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        89,
+                                        114.33333333333334,
+                                        508,
+                                        157.66666666666669
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        89,
+                                        157.66666666666669,
+                                        508,
+                                        201.00000000000003
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        93,
+                        207,
+                        291,
+                        225
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                209,
+                                291,
+                                224
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        209,
+                                        291,
+                                        224
+                                    ],
+                                    "score": 1.0,
+                                    "content": "一、查看UPS 主屏幕故障告警；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        308,
+                        204,
+                        422,
+                        218
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                308,
+                                205,
+                                420,
+                                218
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        205,
+                                        420,
+                                        218
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.1 点击、唤醒屏幕；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ],
+                    "bbox_fs": [
+                        308,
+                        205,
+                        420,
+                        218
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        305,
+                        218,
+                        508,
+                        408
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                308,
+                                229,
+                                502,
+                                241
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        229,
+                                        502,
+                                        241
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.2 状态指示灯：如图所示，屏幕最",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                252,
+                                503,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        252,
+                                        503,
+                                        265
+                                    ],
+                                    "score": 1.0,
+                                    "content": "左侧和右下角有两处状态指示灯。当",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                276,
+                                503,
+                                288
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        276,
+                                        503,
+                                        288
+                                    ],
+                                    "score": 1.0,
+                                    "content": "指示灯绿色表示运行正常；黄色表示",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                298,
+                                470,
+                                313
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        298,
+                                        470,
+                                        313
+                                    ],
+                                    "score": 1.0,
+                                    "content": "一般告警；红色表示严重告警。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                323,
+                                503,
+                                335
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        323,
+                                        503,
+                                        335
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.3 状态条：状态条背景颜色绿色表",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                346,
+                                503,
+                                358
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        346,
+                                        503,
+                                        358
+                                    ],
+                                    "score": 1.0,
+                                    "content": "示正常；黄色代表一般告警，红色代",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                370,
+                                501,
+                                382
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        370,
+                                        501,
+                                        382
+                                    ],
+                                    "score": 1.0,
+                                    "content": "表重要告警。消息内容说明告警信息，",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                393,
+                                434,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        393,
+                                        434,
+                                        406
+                                    ],
+                                    "score": 1.0,
+                                    "content": "当前提示“工作正常”。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 8.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ],
+                    "bbox_fs": [
+                        308,
+                        229,
+                        503,
+                        406
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        306,
+                        415,
+                        508,
+                        529
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                306,
+                                415,
+                                508,
+                                529
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        306,
+                                        415,
+                                        508,
+                                        529
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                306,
+                                                415,
+                                                508,
+                                                529
+                                            ],
+                                            "score": 0.9999260306358337,
+                                            "type": "image",
+                                            "image_path": "2ffeac1664b5f2a63c4ef3cd49f91e7bd7be3261edf4a65722a5fe2cdb706c8d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 17.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        306,
+                                        415,
+                                        508,
+                                        427.0
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        427.0,
+                                        508,
+                                        439.0
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        439.0,
+                                        508,
+                                        451.0
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        451.0,
+                                        508,
+                                        463.0
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        463.0,
+                                        508,
+                                        475.0
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        475.0,
+                                        508,
+                                        487.0
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        487.0,
+                                        508,
+                                        499.0
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        499.0,
+                                        508,
+                                        511.0
+                                    ],
+                                    "spans": [],
+                                    "index": 20
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        511.0,
+                                        508,
+                                        523.0
+                                    ],
+                                    "spans": [],
+                                    "index": 21
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        523.0,
+                                        508,
+                                        535.0
+                                    ],
+                                    "spans": [],
+                                    "index": 22
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        307,
+                        539,
+                        506,
+                        649
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                308,
+                                541,
+                                498,
+                                554
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        541,
+                                        498,
+                                        554
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.4 UPS 运行状态：“绿色功率流”",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                564,
+                                502,
+                                577
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        564,
+                                        502,
+                                        577
+                                    ],
+                                    "score": 1.0,
+                                    "content": "表示正常电压；“黄色功率流”表示",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                588,
+                                502,
+                                600
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        588,
+                                        502,
+                                        600
+                                    ],
+                                    "score": 1.0,
+                                    "content": "电压超范围。“绿色组件”表示正常；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                312,
+                                611,
+                                502,
+                                623
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        312,
+                                        611,
+                                        502,
+                                        623
+                                    ],
+                                    "score": 1.0,
+                                    "content": "“黄色组件”表示一般告警；“红色",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                635,
+                                421,
+                                647
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        635,
+                                        421,
+                                        647
+                                    ],
+                                    "score": 1.0,
+                                    "content": "组件”表示严重告警。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        }
+                    ],
+                    "index": 25,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ],
+                    "bbox_fs": [
+                        308,
+                        541,
+                        502,
+                        647
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        307,
+                        656,
+                        506,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                308,
+                                659,
+                                503,
+                                671
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        659,
+                                        503,
+                                        671
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.5 本机状态：如图所示，表盘上部",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                682,
+                                496,
+                                694
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        682,
+                                        496,
+                                        694
+                                    ],
+                                    "score": 1.0,
+                                    "content": "表示负载，当负载超过设置的阈值，",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                705,
+                                502,
+                                717
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        705,
+                                        502,
+                                        717
+                                    ],
+                                    "score": 1.0,
+                                    "content": "表头将显示黄色或红色；表头下部表",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                729,
+                                500,
+                                740
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        729,
+                                        500,
+                                        740
+                                    ],
+                                    "score": 1.0,
+                                    "content": "示电池，当电池容量低于设置的阈值，",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                752,
+                                501,
+                                764
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        752,
+                                        501,
+                                        764
+                                    ],
+                                    "score": 1.0,
+                                    "content": "表头将显示黄色或红色。黄色表示一",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                78,
+                                457,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        78,
+                                        457,
+                                        91
+                                    ],
+                                    "score": 1.0,
+                                    "content": "般告警，红色表示严重告警。",
+                                    "type": "text",
+                                    "cross_page": true
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 30,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ],
+                    "bbox_fs": [
+                        308,
+                        659,
+                        503,
+                        764
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        307,
+                        77,
+                        458,
+                        91
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                309,
+                                78,
+                                457,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        78,
+                                        457,
+                                        91
+                                    ],
+                                    "score": 1.0,
+                                    "content": "般告警，红色表示严重告警。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        306,
+                        98,
+                        509,
+                        392
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                306,
+                                98,
+                                509,
+                                392
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        306,
+                                        98,
+                                        509,
+                                        392
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                306,
+                                                98,
+                                                509,
+                                                392
+                                            ],
+                                            "score": 0.9995119571685791,
+                                            "type": "image",
+                                            "image_path": "53db9e24ca5726377393d056b13959124ff8a79a0f4361715db13477bdff957f.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        306,
+                                        98,
+                                        509,
+                                        111.0
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        111.0,
+                                        509,
+                                        124.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        124.0,
+                                        509,
+                                        137.0
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        137.0,
+                                        509,
+                                        150.0
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        150.0,
+                                        509,
+                                        163.0
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        163.0,
+                                        509,
+                                        176.0
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        176.0,
+                                        509,
+                                        189.0
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        189.0,
+                                        509,
+                                        202.0
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        202.0,
+                                        509,
+                                        215.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        215.0,
+                                        509,
+                                        228.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        228.0,
+                                        509,
+                                        241.0
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        241.0,
+                                        509,
+                                        254.0
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        254.0,
+                                        509,
+                                        267.0
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        267.0,
+                                        509,
+                                        280.0
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        280.0,
+                                        509,
+                                        293.0
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        293.0,
+                                        509,
+                                        306.0
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        306.0,
+                                        509,
+                                        319.0
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        319.0,
+                                        509,
+                                        332.0
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        332.0,
+                                        509,
+                                        345.0
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        345.0,
+                                        509,
+                                        358.0
+                                    ],
+                                    "spans": [],
+                                    "index": 20
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        358.0,
+                                        509,
+                                        371.0
+                                    ],
+                                    "spans": [],
+                                    "index": 21
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        371.0,
+                                        509,
+                                        384.0
+                                    ],
+                                    "spans": [],
+                                    "index": 22
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        384.0,
+                                        509,
+                                        397.0
+                                    ],
+                                    "spans": [],
+                                    "index": 23
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        306,
+                        420,
+                        504,
+                        458
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                308,
+                                421,
+                                501,
+                                434
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        421,
+                                        501,
+                                        434
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2.1 点击屏幕左上角“三条杠”图标；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                307,
+                                443,
+                                398,
+                                458
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        307,
+                                        443,
+                                        398,
+                                        458
+                                    ],
+                                    "score": 1.0,
+                                    "content": "弹出“主菜单”；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "index": 24.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        93,
+                        452,
+                        278,
+                        472
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                456,
+                                277,
+                                471
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        456,
+                                        277,
+                                        471
+                                    ],
+                                    "score": 1.0,
+                                    "content": "二、查看UPS 故障详细信息；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        }
+                    ],
+                    "index": 26
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        307,
+                        464,
+                        505,
+                        648
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                308,
+                                468,
+                                503,
+                                480
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        468,
+                                        503,
+                                        480
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2.2 点击主菜单“当前事件”，可查",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                491,
+                                503,
+                                504
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        491,
+                                        503,
+                                        504
+                                    ],
+                                    "score": 1.0,
+                                    "content": "看当前事件的发生日期和时间、告警",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                515,
+                                503,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        515,
+                                        503,
+                                        527
+                                    ],
+                                    "score": 1.0,
+                                    "content": "类型、事件ID，受影响的组件及其描",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                306,
+                                537,
+                                326,
+                                552
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        306,
+                                        537,
+                                        326,
+                                        552
+                                    ],
+                                    "score": 1.0,
+                                    "content": "述；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                307,
+                                562,
+                                503,
+                                574
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        307,
+                                        562,
+                                        503,
+                                        574
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2.3 点击主菜单“历史记录”，可查",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                585,
+                                501,
+                                597
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        585,
+                                        501,
+                                        597
+                                    ],
+                                    "score": 1.0,
+                                    "content": "看历史事件的日期和时间、事件类型、",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                609,
+                                503,
+                                621
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        609,
+                                        503,
+                                        621
+                                    ],
+                                    "score": 1.0,
+                                    "content": "事件ID、状态、受影响的组件及其描",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                306,
+                                631,
+                                327,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        306,
+                                        631,
+                                        327,
+                                        646
+                                    ],
+                                    "score": 1.0,
+                                    "content": "述。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        }
+                    ],
+                    "index": 30.5
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 2,
+            "page_size": [
+                595.2999877929688,
+                841.9000244140625
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        306,
+                        98,
+                        509,
+                        392
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                306,
+                                98,
+                                509,
+                                392
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        306,
+                                        98,
+                                        509,
+                                        392
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                306,
+                                                98,
+                                                509,
+                                                392
+                                            ],
+                                            "score": 0.9995119571685791,
+                                            "type": "image",
+                                            "image_path": "53db9e24ca5726377393d056b13959124ff8a79a0f4361715db13477bdff957f.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        306,
+                                        98,
+                                        509,
+                                        111.0
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        111.0,
+                                        509,
+                                        124.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        124.0,
+                                        509,
+                                        137.0
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        137.0,
+                                        509,
+                                        150.0
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        150.0,
+                                        509,
+                                        163.0
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        163.0,
+                                        509,
+                                        176.0
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        176.0,
+                                        509,
+                                        189.0
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        189.0,
+                                        509,
+                                        202.0
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        202.0,
+                                        509,
+                                        215.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        215.0,
+                                        509,
+                                        228.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        228.0,
+                                        509,
+                                        241.0
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        241.0,
+                                        509,
+                                        254.0
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        254.0,
+                                        509,
+                                        267.0
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        267.0,
+                                        509,
+                                        280.0
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        280.0,
+                                        509,
+                                        293.0
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        293.0,
+                                        509,
+                                        306.0
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        306.0,
+                                        509,
+                                        319.0
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        319.0,
+                                        509,
+                                        332.0
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        332.0,
+                                        509,
+                                        345.0
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        345.0,
+                                        509,
+                                        358.0
+                                    ],
+                                    "spans": [],
+                                    "index": 20
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        358.0,
+                                        509,
+                                        371.0
+                                    ],
+                                    "spans": [],
+                                    "index": 21
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        371.0,
+                                        509,
+                                        384.0
+                                    ],
+                                    "spans": [],
+                                    "index": 22
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        384.0,
+                                        509,
+                                        397.0
+                                    ],
+                                    "spans": [],
+                                    "index": 23
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                }
+            ],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        272,
+                        783,
+                        322,
+                        798
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                271,
+                                782,
+                                323,
+                                800
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        271,
+                                        782,
+                                        323,
+                                        800
+                                    ],
+                                    "score": 1.0,
+                                    "content": "第3 页",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        307,
+                        77,
+                        458,
+                        91
+                    ],
+                    "lines": [],
+                    "index": 0,
+                    "page_num": "page_2",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ],
+                    "bbox_fs": [
+                        309,
+                        78,
+                        457,
+                        91
+                    ],
+                    "lines_deleted": true
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        306,
+                        98,
+                        509,
+                        392
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                306,
+                                98,
+                                509,
+                                392
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        306,
+                                        98,
+                                        509,
+                                        392
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                306,
+                                                98,
+                                                509,
+                                                392
+                                            ],
+                                            "score": 0.9995119571685791,
+                                            "type": "image",
+                                            "image_path": "53db9e24ca5726377393d056b13959124ff8a79a0f4361715db13477bdff957f.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        306,
+                                        98,
+                                        509,
+                                        111.0
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        111.0,
+                                        509,
+                                        124.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        124.0,
+                                        509,
+                                        137.0
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        137.0,
+                                        509,
+                                        150.0
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        150.0,
+                                        509,
+                                        163.0
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        163.0,
+                                        509,
+                                        176.0
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        176.0,
+                                        509,
+                                        189.0
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        189.0,
+                                        509,
+                                        202.0
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        202.0,
+                                        509,
+                                        215.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        215.0,
+                                        509,
+                                        228.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        228.0,
+                                        509,
+                                        241.0
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        241.0,
+                                        509,
+                                        254.0
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        254.0,
+                                        509,
+                                        267.0
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        267.0,
+                                        509,
+                                        280.0
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        280.0,
+                                        509,
+                                        293.0
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        293.0,
+                                        509,
+                                        306.0
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        306.0,
+                                        509,
+                                        319.0
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        319.0,
+                                        509,
+                                        332.0
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        332.0,
+                                        509,
+                                        345.0
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        345.0,
+                                        509,
+                                        358.0
+                                    ],
+                                    "spans": [],
+                                    "index": 20
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        358.0,
+                                        509,
+                                        371.0
+                                    ],
+                                    "spans": [],
+                                    "index": 21
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        371.0,
+                                        509,
+                                        384.0
+                                    ],
+                                    "spans": [],
+                                    "index": 22
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        384.0,
+                                        509,
+                                        397.0
+                                    ],
+                                    "spans": [],
+                                    "index": 23
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12,
+                    "page_num": "page_2",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        306,
+                        420,
+                        504,
+                        458
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                308,
+                                421,
+                                501,
+                                434
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        421,
+                                        501,
+                                        434
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2.1 点击屏幕左上角“三条杠”图标；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                307,
+                                443,
+                                398,
+                                458
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        307,
+                                        443,
+                                        398,
+                                        458
+                                    ],
+                                    "score": 1.0,
+                                    "content": "弹出“主菜单”；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 24.5,
+                    "page_num": "page_2",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ],
+                    "bbox_fs": [
+                        307,
+                        421,
+                        501,
+                        458
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        93,
+                        452,
+                        278,
+                        472
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                456,
+                                277,
+                                471
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        456,
+                                        277,
+                                        471
+                                    ],
+                                    "score": 1.0,
+                                    "content": "二、查看UPS 故障详细信息；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        }
+                    ],
+                    "index": 26,
+                    "page_num": "page_2",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        307,
+                        464,
+                        505,
+                        648
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                308,
+                                468,
+                                503,
+                                480
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        468,
+                                        503,
+                                        480
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2.2 点击主菜单“当前事件”，可查",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                491,
+                                503,
+                                504
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        491,
+                                        503,
+                                        504
+                                    ],
+                                    "score": 1.0,
+                                    "content": "看当前事件的发生日期和时间、告警",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                515,
+                                503,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        515,
+                                        503,
+                                        527
+                                    ],
+                                    "score": 1.0,
+                                    "content": "类型、事件ID，受影响的组件及其描",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                306,
+                                537,
+                                326,
+                                552
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        306,
+                                        537,
+                                        326,
+                                        552
+                                    ],
+                                    "score": 1.0,
+                                    "content": "述；",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                307,
+                                562,
+                                503,
+                                574
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        307,
+                                        562,
+                                        503,
+                                        574
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2.3 点击主菜单“历史记录”，可查",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                585,
+                                501,
+                                597
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        585,
+                                        501,
+                                        597
+                                    ],
+                                    "score": 1.0,
+                                    "content": "看历史事件的日期和时间、事件类型、",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                609,
+                                503,
+                                621
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        609,
+                                        503,
+                                        621
+                                    ],
+                                    "score": 1.0,
+                                    "content": "事件ID、状态、受影响的组件及其描",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                306,
+                                631,
+                                327,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        306,
+                                        631,
+                                        327,
+                                        646
+                                    ],
+                                    "score": 1.0,
+                                    "content": "述。",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 30.5,
+                    "page_num": "page_2",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ],
+                    "bbox_fs": [
+                        306,
+                        468,
+                        503,
+                        646
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        70,
+                        510,
+                        320
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                88,
+                                70,
+                                510,
+                                320
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        70,
+                                        510,
+                                        320
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                70,
+                                                510,
+                                                320
+                                            ],
+                                            "score": 0.7739173769950867,
+                                            "html": "<html><body><table><tr><td rowspan=\"3\"></td><td>工作正常</td><td>本机状态</td><td>LIFE服务 登录</td></tr><tr><td>系统>UPS1</td><td>电压 入 旁路</td><td>电池 24% 负载：112kW ABC 228228 220 219 228 227 227 227 220 电池：1小时 100%</td></tr><tr><td>状态 当前事件 历史记录 电池 屏幕保护 运行时间统计 部件信息 显示选项 技术支持 关于</td><td>工作正常 本机状态 路 24% 负载：113kW 输出 输入 229228227 219 219 228 228 220 旁路 228 电池：1小时 100%</td><td>LIFE服务 登录 电池</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "cdc47e73aadd1258e048ce88b9c7915a0f865fda8a1c0d8e57332a59506ee629.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        70,
+                                        510,
+                                        153.33333333333331
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        153.33333333333331,
+                                        510,
+                                        236.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        236.66666666666663,
+                                        510,
+                                        319.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 3,
+            "page_size": [
+                595.2999877929688,
+                841.9000244140625
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        70,
+                        510,
+                        320
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                88,
+                                70,
+                                510,
+                                320
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        70,
+                                        510,
+                                        320
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                70,
+                                                510,
+                                                320
+                                            ],
+                                            "score": 0.7739173769950867,
+                                            "html": "<html><body><table><tr><td rowspan=\"3\"></td><td>工作正常</td><td>本机状态</td><td>LIFE服务 登录</td></tr><tr><td>系统>UPS1</td><td>电压 入 旁路</td><td>电池 24% 负载：112kW ABC 228228 220 219 228 227 227 227 220 电池：1小时 100%</td></tr><tr><td>状态 当前事件 历史记录 电池 屏幕保护 运行时间统计 部件信息 显示选项 技术支持 关于</td><td>工作正常 本机状态 路 24% 负载：113kW 输出 输入 229228227 219 219 228 228 220 旁路 228 电池：1小时 100%</td><td>LIFE服务 登录 电池</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "cdc47e73aadd1258e048ce88b9c7915a0f865fda8a1c0d8e57332a59506ee629.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        70,
+                                        510,
+                                        153.33333333333331
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        153.33333333333331,
+                                        510,
+                                        236.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        236.66666666666663,
+                                        510,
+                                        319.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        272,
+                        783,
+                        322,
+                        798
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                272,
+                                782,
+                                323,
+                                799
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        272,
+                                        782,
+                                        323,
+                                        799
+                                    ],
+                                    "score": 1.0,
+                                    "content": "第4 页",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        70,
+                        510,
+                        320
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                88,
+                                70,
+                                510,
+                                320
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        70,
+                                        510,
+                                        320
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                70,
+                                                510,
+                                                320
+                                            ],
+                                            "score": 0.7739173769950867,
+                                            "html": "<html><body><table><tr><td rowspan=\"3\"></td><td>工作正常</td><td>本机状态</td><td>LIFE服务 登录</td></tr><tr><td>系统>UPS1</td><td>电压 入 旁路</td><td>电池 24% 负载：112kW ABC 228228 220 219 228 227 227 227 220 电池：1小时 100%</td></tr><tr><td>状态 当前事件 历史记录 电池 屏幕保护 运行时间统计 部件信息 显示选项 技术支持 关于</td><td>工作正常 本机状态 路 24% 负载：113kW 输出 输入 229228227 219 219 228 228 220 旁路 228 电池：1小时 100%</td><td>LIFE服务 登录 电池</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "cdc47e73aadd1258e048ce88b9c7915a0f865fda8a1c0d8e57332a59506ee629.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        70,
+                                        510,
+                                        153.33333333333331
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        153.33333333333331,
+                                        510,
+                                        236.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        236.66666666666663,
+                                        510,
+                                        319.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_3",
+                    "page_size": [
+                        595.2999877929688,
+                        841.9000244140625
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "txt",
+    "_version_name": "0.10.6"
+}
